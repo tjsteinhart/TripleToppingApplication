@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8232847403434308943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: 9d2825a2-b5f5-4aa3-91aa-ca5cb602fe7d
+  m_EditorClassIdentifier: 
+  text: 
+  childrenIDs: []
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+  isPlayerSpeaking: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce6daf250d5a084fa3abbb567959faf, type: 3}
+  m_Name: Test2
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -8232847403434308943}
+  newNodeOffset: {x: 250, y: 0}

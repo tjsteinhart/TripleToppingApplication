@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: 6ca9029e6881f9340aed573ef9b998f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7326453137558071942
+    second: npc_cooking_vendor__x1_talk_png_1354831616_0
+  - first:
+      213: 5048198977661661918
+    second: npc_cooking_vendor__x1_talk_png_1354831616_1
+  - first:
+      213: -1729889348298194919
+    second: npc_cooking_vendor__x1_talk_png_1354831616_2
+  - first:
+      213: -5531569773315350686
+    second: npc_cooking_vendor__x1_talk_png_1354831616_3
+  - first:
+      213: 1141633785215937778
+    second: npc_cooking_vendor__x1_talk_png_1354831616_4
+  - first:
+      213: -799621635213169358
+    second: npc_cooking_vendor__x1_talk_png_1354831616_5
+  - first:
+      213: 5661383598471630234
+    second: npc_cooking_vendor__x1_talk_png_1354831616_6
+  - first:
+      213: 806752330677928505
+    second: npc_cooking_vendor__x1_talk_png_1354831616_7
+  - first:
+      213: 7398613934437513755
+    second: npc_cooking_vendor__x1_talk_png_1354831616_8
+  - first:
+      213: 8122940665825499227
+    second: npc_cooking_vendor__x1_talk_png_1354831616_9
+  - first:
+      213: -9180690608969354519
+    second: npc_cooking_vendor__x1_talk_png_1354831616_10
+  - first:
+      213: 7217113915379638289
+    second: npc_cooking_vendor__x1_talk_png_1354831616_11
+  - first:
+      213: 3746114580331558098
+    second: npc_cooking_vendor__x1_talk_png_1354831616_12
+  - first:
+      213: 5089801149818771537
+    second: npc_cooking_vendor__x1_talk_png_1354831616_13
+  - first:
+      213: 8430107215089943635
+    second: npc_cooking_vendor__x1_talk_png_1354831616_14
+  - first:
+      213: -5250664320123261427
+    second: npc_cooking_vendor__x1_talk_png_1354831616_15
+  - first:
+      213: 9095038665213329635
+    second: npc_cooking_vendor__x1_talk_png_1354831616_16
+  - first:
+      213: 8328172117530670082
+    second: npc_cooking_vendor__x1_talk_png_1354831616_17
+  - first:
+      213: 4899629370762306928
+    second: npc_cooking_vendor__x1_talk_png_1354831616_18
+  - first:
+      213: 2112304629899503614
+    second: npc_cooking_vendor__x1_talk_png_1354831616_19
+  - first:
+      213: 4739910736319923718
+    second: npc_cooking_vendor__x1_talk_png_1354831616_20
+  - first:
+      213: -4509868464544762149
+    second: npc_cooking_vendor__x1_talk_png_1354831616_21
+  - first:
+      213: -8284932594275038788
+    second: npc_cooking_vendor__x1_talk_png_1354831616_22
+  - first:
+      213: -6351485546056121544
+    second: npc_cooking_vendor__x1_talk_png_1354831616_23
+  - first:
+      213: -487062112930199324
+    second: npc_cooking_vendor__x1_talk_png_1354831616_24
+  - first:
+      213: 9005307304098876687
+    second: npc_cooking_vendor__x1_talk_png_1354831616_25
+  - first:
+      213: -3312629821995071441
+    second: npc_cooking_vendor__x1_talk_png_1354831616_26
+  - first:
+      213: 5002726754057568633
+    second: npc_cooking_vendor__x1_talk_png_1354831616_27
+  - first:
+      213: -6778011487365342894
+    second: npc_cooking_vendor__x1_talk_png_1354831616_28
+  - first:
+      213: 8256932703583334385
+    second: npc_cooking_vendor__x1_talk_png_1354831616_29
+  - first:
+      213: 4082586715587027995
+    second: npc_cooking_vendor__x1_talk_png_1354831616_30
+  - first:
+      213: 2260932531253122513
+    second: npc_cooking_vendor__x1_talk_png_1354831616_31
+  - first:
+      213: -7304359920683161166
+    second: npc_cooking_vendor__x1_talk_png_1354831616_32
+  - first:
+      213: 5203930287850739462
+    second: npc_cooking_vendor__x1_talk_png_1354831616_33
+  - first:
+      213: -4862992537173682551
+    second: npc_cooking_vendor__x1_talk_png_1354831616_34
+  - first:
+      213: 7058772005176832284
+    second: npc_cooking_vendor__x1_talk_png_1354831616_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1611
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751e4840b5335a90800000000000000
+      internalID: -7326453137558071942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1611
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27303493ece0640800000000000000
+      internalID: 5048198977661661918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1611
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91044f59dc23ef7e0800000000000000
+      internalID: -1729889348298194919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_3
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1611
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1043499aeb33b0800000000000000
+      internalID: -5531569773315350686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1611
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc616701e5e7df00800000000000000
+      internalID: 1141633785215937778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1381
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de66efb5c27e4f0800000000000000
+      internalID: -799621635213169358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1381
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dcf143366419e40800000000000000
+      internalID: 5661383598471630234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1381
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c6cb68f8223b00800000000000000
+      internalID: 806752330677928505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1381
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a37608c282da660800000000000000
+      internalID: 7398613934437513755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1381
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b589a169f7b7ab070800000000000000
+      internalID: 8122940665825499227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1151
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fd935882a79080800000000000000
+      internalID: -9180690608969354519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1151
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106bbd3ed6582460800000000000000
+      internalID: 7217113915379638289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1151
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f290fc5fdcf330800000000000000
+      internalID: 3746114580331558098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1151
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589258cd2b92a640800000000000000
+      internalID: 5089801149818771537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_14
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1151
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c4e5f8d1cdf470800000000000000
+      internalID: 8430107215089943635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 921
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2c3cbe94e127b0800000000000000
+      internalID: -5250664320123261427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 921
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0cb7a7a71183e70800000000000000
+      internalID: 9095038665213329635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 921
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2047ab59a6c939370800000000000000
+      internalID: 8328172117530670082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 921
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ab5f04fafef340800000000000000
+      internalID: 4899629370762306928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 921
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a2929ed9605d10800000000000000
+      internalID: 2112304629899503614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 691
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c86993bb87c140800000000000000
+      internalID: 4739910736319923718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 691
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b21b968ab961c0800000000000000
+      internalID: -4509868464544762149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 691
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb94e2273b1060d80800000000000000
+      internalID: -8284932594275038788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 691
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8330c472c8dfad7a0800000000000000
+      internalID: -6351485546056121544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 691
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88e3fb69b9d39f0800000000000000
+      internalID: -487062112930199324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 461
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4b0ae74749fc70800000000000000
+      internalID: 9005307304098876687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 461
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f284e9b5abc2702d0800000000000000
+      internalID: -3312629821995071441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 461
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c1fb2a714d6540800000000000000
+      internalID: 5002726754057568633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 461
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595214b67aafe1a0800000000000000
+      internalID: -6778011487365342894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_29
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 461
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe36bfb84869270800000000000000
+      internalID: 8256932703583334385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142b43ccf248a830800000000000000
+      internalID: 4082586715587027995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 231
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d597728822706f10800000000000000
+      internalID: 2260932531253122513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 231
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b964103a53b1aa90800000000000000
+      internalID: -7304359920683161166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 231
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075d337603183840800000000000000
+      internalID: 5203930287850739462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_34
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 231
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986136c7d0e238cb0800000000000000
+      internalID: -4862992537173682551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_talk_png_1354831616_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 179
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11790f5dbbc5f160800000000000000
+      internalID: 7058772005176832284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3fd8eeaeb5e39a4a8c15962fb218c56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1882 @@
+fileFormatVersion: 2
+guid: d7916f962f3692b48b533afe0e482aa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4991838842622269820
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_0
+  - first:
+      213: -635448969421218401
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_1
+  - first:
+      213: 3940939243026001354
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_2
+  - first:
+      213: -1595715885749471549
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_3
+  - first:
+      213: 5201990720796288339
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_4
+  - first:
+      213: 7279239847048342218
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_5
+  - first:
+      213: 5851379039763077936
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_6
+  - first:
+      213: 7972354505839948867
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_7
+  - first:
+      213: -2534423714308188759
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_8
+  - first:
+      213: -6228216962812414410
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_9
+  - first:
+      213: -5758090988187291074
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_10
+  - first:
+      213: 8583708589580169661
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_11
+  - first:
+      213: 6065253093857243704
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_12
+  - first:
+      213: -7949480435260388946
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_13
+  - first:
+      213: -4398699001593521941
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_14
+  - first:
+      213: -4435036334042212538
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_15
+  - first:
+      213: 1158776048376237671
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_16
+  - first:
+      213: 4695918084452684383
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_17
+  - first:
+      213: -475662192857112550
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_18
+  - first:
+      213: -1962850893721445006
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_19
+  - first:
+      213: 4102823497018331031
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_20
+  - first:
+      213: 3035570940643970450
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_21
+  - first:
+      213: 1391700892547282928
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_22
+  - first:
+      213: 293765818108554764
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_23
+  - first:
+      213: -1548179774456976280
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_24
+  - first:
+      213: 6348690677359617576
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_25
+  - first:
+      213: 4926777174612415723
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_26
+  - first:
+      213: -379203565887249962
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_27
+  - first:
+      213: -2453222152614636942
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_28
+  - first:
+      213: -5405021889586070441
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_29
+  - first:
+      213: -3101493584093344391
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_30
+  - first:
+      213: -1856068774475362838
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_31
+  - first:
+      213: -7581948367192378449
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_32
+  - first:
+      213: -6594306050252487604
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_33
+  - first:
+      213: 3128876289912531789
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_34
+  - first:
+      213: 6212622674020687589
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_35
+  - first:
+      213: 2418100615814284674
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_36
+  - first:
+      213: -6626681669451864057
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_37
+  - first:
+      213: 205795426481732254
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_38
+  - first:
+      213: -8437891620928274329
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_39
+  - first:
+      213: 5364351339838018291
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_40
+  - first:
+      213: -5257553078709011965
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_41
+  - first:
+      213: -2442218042937248271
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_42
+  - first:
+      213: 2929332232231815788
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_43
+  - first:
+      213: 8061865379910973315
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_44
+  - first:
+      213: -4771705792908399099
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_45
+  - first:
+      213: -827858697600239687
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_46
+  - first:
+      213: -2935850742835839159
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_47
+  - first:
+      213: 6517817265116867803
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_48
+  - first:
+      213: 545409061008129679
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_49
+  - first:
+      213: 7488529715695622630
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_50
+  - first:
+      213: 2522163699246036301
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_51
+  - first:
+      213: 1977754685410636385
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_52
+  - first:
+      213: -8399837687026762228
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_53
+  - first:
+      213: 5986825047041947559
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_54
+  - first:
+      213: 194733070551371001
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_55
+  - first:
+      213: 2416663431836368414
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_56
+  - first:
+      213: 5122296688707034972
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_57
+  - first:
+      213: 5942344143247037976
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_58
+  - first:
+      213: -1410437489393947981
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_59
+  - first:
+      213: 4526740624570650661
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_60
+  - first:
+      213: -8434442863529512125
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_61
+  - first:
+      213: 2731633983864438231
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_62
+  - first:
+      213: -4869743552808321234
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_63
+  - first:
+      213: -7889869159728880821
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_64
+  - first:
+      213: -1961744906420401651
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_65
+  - first:
+      213: 3014346724204786655
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_66
+  - first:
+      213: -5484887684203729250
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_67
+  - first:
+      213: -3029403225974083930
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_68
+  - first:
+      213: -2661212777876018555
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_69
+  - first:
+      213: -8735900832352343357
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_70
+  - first:
+      213: 2787239153451141685
+    second: npc_rare_item_vendor__x1_talk_png_1354840071_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1274
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795f7ebaf2964540800000000000000
+      internalID: 4991838842622269820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1274
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d92c0778e6e27f0800000000000000
+      internalID: -635448969421218401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1274
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd26fd8c5701b630800000000000000
+      internalID: 3940939243026001354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1274
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6747b3bd0ead9e0800000000000000
+      internalID: -1595715885749471549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1274
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e0fdcffe213840800000000000000
+      internalID: 5201990720796288339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1183
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6f26e21e050560800000000000000
+      internalID: 7279239847048342218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1183
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9e371c36443150800000000000000
+      internalID: 5851379039763077936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1183
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34433180f2e73ae60800000000000000
+      internalID: 7972354505839948867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1183
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5955e4f0be3dcd0800000000000000
+      internalID: -2534423714308188759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1183
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f08bbbade099a0800000000000000
+      internalID: -6228216962812414410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1092
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f7b001c62710b0800000000000000
+      internalID: -5758090988187291074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1092
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13569db757f1770800000000000000
+      internalID: 8583708589580169661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1092
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8323334cd8b1c2450800000000000000
+      internalID: 6065253093857243704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1092
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9036b89a5cda190800000000000000
+      internalID: -7949480435260388946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_14
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1092
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81728309ea4f2c0800000000000000
+      internalID: -4398699001593521941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1001
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479677b3f59372c0800000000000000
+      internalID: -4435036334042212538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1001
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e42b13dacc41010800000000000000
+      internalID: 1158776048376237671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1001
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5292262e904b2140800000000000000
+      internalID: 4695918084452684383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1001
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a102ba971cb1669f0800000000000000
+      internalID: -475662192857112550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1001
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ddca4038d82c4e0800000000000000
+      internalID: -1962850893721445006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 910
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f47eb9b3820f830800000000000000
+      internalID: 4102823497018331031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 910
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d0597ffa3802a20800000000000000
+      internalID: 3035570940643970450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 910
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7ffd59690505310800000000000000
+      internalID: 1391700892547282928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_23
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 910
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2383847aa31400800000000000000
+      internalID: 293765818108554764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 910
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2c0f92b2c38ae0800000000000000
+      internalID: -1548179774456976280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 819
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826aad4c8841b1850800000000000000
+      internalID: 6348690677359617576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 819
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be49644bcbd6f5440800000000000000
+      internalID: 4926777174612415723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 819
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1aabdad5cccbaf0800000000000000
+      internalID: -379203565887249962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 819
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272194e237764fdd0800000000000000
+      internalID: -2453222152614636942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 819
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cf20c7a318df4b0800000000000000
+      internalID: -5405021889586070441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 728
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d86f6840845f4d0800000000000000
+      internalID: -3101493584093344391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 728
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed83b2984bed36e0800000000000000
+      internalID: -1856068774475362838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 728
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33524812287c690800000000000000
+      internalID: -7581948367192378449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_33
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 728
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44cd7ed5915c74a0800000000000000
+      internalID: -6594306050252487604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_34
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 728
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be06e78600c6b20800000000000000
+      internalID: 3128876289912531789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 637
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5a88f76ba73650800000000000000
+      internalID: 6212622674020687589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 637
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28583ccc2b1de8120800000000000000
+      internalID: 2418100615814284674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 637
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708aabc912c4904a0800000000000000
+      internalID: -6626681669451864057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 637
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9af7db99d12bd200800000000000000
+      internalID: 205795426481732254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_39
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 637
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604351d64696ea80800000000000000
+      internalID: -8437891620928274329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 546
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29f6d3f11027a40800000000000000
+      internalID: 5364351339838018291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 546
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ab9c3a45b6907b0800000000000000
+      internalID: -5257553078709011965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 546
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5fcae11af7b1ed0800000000000000
+      internalID: -2442218042937248271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 546
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a874b152417a820800000000000000
+      internalID: 2929332232231815788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_44
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 546
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fc9479df71ef60800000000000000
+      internalID: 8061865379910973315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 455
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e6509ecde77cdb0800000000000000
+      internalID: -4771705792908399099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 455
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f15596ead284f0800000000000000
+      internalID: -827858697600239687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 455
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff3bfdd43c147d0800000000000000
+      internalID: -2935850742835839159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_48
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 455
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce23e0540f37a50800000000000000
+      internalID: 6517817265116867803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_49
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 455
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e3baab6aea19700800000000000000
+      internalID: 545409061008129679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 364
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99ef9b91a9ce760800000000000000
+      internalID: 7488529715695622630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 364
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f1fe7586800320800000000000000
+      internalID: 2522163699246036301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 364
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f3c46865627b10800000000000000
+      internalID: 1977754685410636385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_53
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 364
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb4ddb028cd6b80800000000000000
+      internalID: -8399837687026762228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_54
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 364
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b85529a9751350800000000000000
+      internalID: 5986825047041947559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc4c3822b4d3b200800000000000000
+      internalID: 194733070551371001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_56
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 273
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e78445696b98120800000000000000
+      internalID: 2416663431836368414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_57
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 273
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fda8403bd061740800000000000000
+      internalID: 5122296688707034972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 273
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816dc5fa382777250800000000000000
+      internalID: 5942344143247037976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 273
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa7c2839e1d6ce0800000000000000
+      internalID: -1410437489393947981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201dd54d9632de30800000000000000
+      internalID: 4526740624570650661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 182
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343bef837e6d2fa80800000000000000
+      internalID: -8434442863529512125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_62
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 182
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddff90b2a6b8e520800000000000000
+      internalID: 2731633983864438231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_63
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 182
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7c9b2a023b6cb0800000000000000
+      internalID: -4869743552808321234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_64
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 182
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ec023dcd818290800000000000000
+      internalID: -7889869159728880821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_65
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a41e0c66b76c4e0800000000000000
+      internalID: -1961744906420401651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_66
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 91
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b61eff5c15d920800000000000000
+      internalID: 3014346724204786655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_67
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 91
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2f1e16b3c1e3b0800000000000000
+      internalID: -5484887684203729250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 91
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae646201d565f5d0800000000000000
+      internalID: -3029403225974083930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_69
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 91
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a28f60419711bd0800000000000000
+      internalID: -2661212777876018555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca699e4a78d3c680800000000000000
+      internalID: -8735900832352343357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_talk_png_1354840071_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a048d1e334ea620800000000000000
+      internalID: 2787239153451141685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

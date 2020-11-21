@@ -1,0 +1,2722 @@
+fileFormatVersion: 2
+guid: bcd9f177c4d81dd4595f7e74f8b86209
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8631169889817597766
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_0
+  - first:
+      213: -6500090883608889033
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_1
+  - first:
+      213: -4013910585130733334
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_2
+  - first:
+      213: -3662204845670059345
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_3
+  - first:
+      213: -8520563311883393071
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_4
+  - first:
+      213: 7311429908815573407
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_5
+  - first:
+      213: 4717336220678348212
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_6
+  - first:
+      213: 945755344210129277
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_7
+  - first:
+      213: -4502900213525652987
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_8
+  - first:
+      213: 4619284056224672419
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_9
+  - first:
+      213: -8493248349531042221
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_10
+  - first:
+      213: -2456221170210634874
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_11
+  - first:
+      213: -7820184409808921159
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_12
+  - first:
+      213: 4357547933419999358
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_13
+  - first:
+      213: -8749647492383559086
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_14
+  - first:
+      213: 6799329383341873107
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_15
+  - first:
+      213: 6278946203647370884
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_16
+  - first:
+      213: 1992182089854189451
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_17
+  - first:
+      213: -3061304189056325918
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_18
+  - first:
+      213: 2351052463925177180
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_19
+  - first:
+      213: -4961499040415861292
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_20
+  - first:
+      213: -8549308981400626536
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_21
+  - first:
+      213: -8454332865465166010
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_22
+  - first:
+      213: 7250073654768434609
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_23
+  - first:
+      213: -1210821442294498821
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_24
+  - first:
+      213: -7175066301895627941
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_25
+  - first:
+      213: -7015872408639464566
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_26
+  - first:
+      213: 5589060076260178535
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_27
+  - first:
+      213: 8675896947764888367
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_28
+  - first:
+      213: -6668235164773275344
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_29
+  - first:
+      213: 2933013133351065591
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_30
+  - first:
+      213: -7116427768309474700
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_31
+  - first:
+      213: 4397316933716985194
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_32
+  - first:
+      213: 7526430725457900920
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_33
+  - first:
+      213: 7864820632031929477
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_34
+  - first:
+      213: -1294335144617595838
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_35
+  - first:
+      213: 7824202562072823281
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_36
+  - first:
+      213: -2217393016023004693
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_37
+  - first:
+      213: 7499957452588850432
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_38
+  - first:
+      213: -2125826343780362193
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_39
+  - first:
+      213: -1431743779182810124
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_40
+  - first:
+      213: 685371078583646358
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_41
+  - first:
+      213: 5932301419676337455
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_42
+  - first:
+      213: 6214654797941226001
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_43
+  - first:
+      213: 4711713938799916430
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_44
+  - first:
+      213: -5884630134669951488
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_45
+  - first:
+      213: 6768549917024168531
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_46
+  - first:
+      213: 5677182364619589282
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_47
+  - first:
+      213: 2489942686166557922
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_48
+  - first:
+      213: -4482602874503686811
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_49
+  - first:
+      213: 6540067461493532861
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_50
+  - first:
+      213: -578911311241113007
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_51
+  - first:
+      213: 4728134463129855100
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_52
+  - first:
+      213: 3383060996435907144
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_53
+  - first:
+      213: 5929270866650248769
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_54
+  - first:
+      213: -3145295759898803117
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_55
+  - first:
+      213: 3399422914089770428
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_56
+  - first:
+      213: -616155515510478040
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_57
+  - first:
+      213: -3932020022769399712
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_58
+  - first:
+      213: 3578278880841040821
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_59
+  - first:
+      213: 6169919006821676515
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_60
+  - first:
+      213: 5628939084870733505
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_61
+  - first:
+      213: -2231920246207192881
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_62
+  - first:
+      213: -2385483379372241400
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_63
+  - first:
+      213: 7283063352553485866
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_64
+  - first:
+      213: -2532275094123497053
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_65
+  - first:
+      213: -8842826975294801644
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_66
+  - first:
+      213: 2193526228685949338
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_67
+  - first:
+      213: 5145676933583262489
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_68
+  - first:
+      213: -3674991924818120745
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_69
+  - first:
+      213: 7776780298540013721
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_70
+  - first:
+      213: 1301348425556514082
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_71
+  - first:
+      213: -177895165788883668
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_72
+  - first:
+      213: -7309511505711671761
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_73
+  - first:
+      213: -1855366492451364590
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_74
+  - first:
+      213: 8412517695589198695
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_75
+  - first:
+      213: 4564594235396679655
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_76
+  - first:
+      213: 7970951623697261489
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_77
+  - first:
+      213: 7520485045858519232
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_78
+  - first:
+      213: -8354359534186590709
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_79
+  - first:
+      213: 4600805908450579662
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_80
+  - first:
+      213: -8806530955868372346
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_81
+  - first:
+      213: 5513640253722413441
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_82
+  - first:
+      213: -3172324608296707449
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_83
+  - first:
+      213: 249357791475929858
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_84
+  - first:
+      213: -2756611405035870091
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_85
+  - first:
+      213: -6357888942496059437
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_86
+  - first:
+      213: -2710436373488868414
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_87
+  - first:
+      213: 4990824132629330184
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_88
+  - first:
+      213: -1576935214845935863
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_89
+  - first:
+      213: 1668692346697784655
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_90
+  - first:
+      213: -8359173400152592002
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_91
+  - first:
+      213: -21831470107256368
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_92
+  - first:
+      213: -726331153374774072
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_93
+  - first:
+      213: 4303655219763849609
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_94
+  - first:
+      213: 5219531405656563371
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_95
+  - first:
+      213: 5030575767286553270
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_96
+  - first:
+      213: -5159775233687645534
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_97
+  - first:
+      213: -6496456395377113165
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_98
+  - first:
+      213: -947201696187781400
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_99
+  - first:
+      213: -638938503559364556
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_100
+  - first:
+      213: -1800952156206561528
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_101
+  - first:
+      213: 7358336537058754443
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_102
+  - first:
+      213: -5222279505005008819
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_103
+  - first:
+      213: -4207647026846535469
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_104
+  - first:
+      213: 1808590535038879803
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_105
+  - first:
+      213: 285768638215456696
+    second: npc_rare_item_vendor__x1_idle_png_1354840068_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1911
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64710aee84318c770800000000000000
+      internalID: 8631169889817597766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1911
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739bcb2c7c90bc5a0800000000000000
+      internalID: -6500090883608889033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1911
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae03a15e699bb48c0800000000000000
+      internalID: -4013910585130733334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1911
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23f17981c3d2dc0800000000000000
+      internalID: -3662204845670059345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1911
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e6fccfc0e0c980800000000000000
+      internalID: -8520563311883393071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1820
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917e13b3ca677560800000000000000
+      internalID: 7311429908815573407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1820
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bddd979c48577140800000000000000
+      internalID: 4717336220678348212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1820
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d717218897fff1d00800000000000000
+      internalID: 945755344210129277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1820
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad5c9fc1c7281c0800000000000000
+      internalID: -4502900213525652987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1820
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa5e7006efa1040800000000000000
+      internalID: 4619284056224672419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1729
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e870110abe12a80800000000000000
+      internalID: -8493248349531042221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1729
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830dcbfbdfb9edd0800000000000000
+      internalID: -2456221170210634874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1729
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd9a4f56bf197390800000000000000
+      internalID: -7820184409808921159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1729
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709c3712ce197c30800000000000000
+      internalID: 4357547933419999358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_14
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1729
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252379a96f1039680800000000000000
+      internalID: -8749647492383559086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1638
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d7fcbc021c5e50800000000000000
+      internalID: 6799329383341873107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1638
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48660301e4c432750800000000000000
+      internalID: 6278946203647370884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1638
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f77a14e07a5ab10800000000000000
+      internalID: 1992182089854189451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1638
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e1ed3f001485d0800000000000000
+      internalID: -3061304189056325918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1638
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b219072cd90a020800000000000000
+      internalID: 2351052463925177180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1547
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5329ee8e6352bb0800000000000000
+      internalID: -4961499040415861292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1547
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a1f8017c0ca5980800000000000000
+      internalID: -8549308981400626536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1547
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d9054d0d2caa80800000000000000
+      internalID: -8454332865465166010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_23
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1547
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf3e3939f6d9460800000000000000
+      internalID: 7250073654768434609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1547
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93c9d305c423fe0800000000000000
+      internalID: -1210821442294498821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1456
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba2aba63b0d6c90800000000000000
+      internalID: -7175066301895627941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1456
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b949d473d92ae90800000000000000
+      internalID: -7015872408639464566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1456
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3ec9f684509d40800000000000000
+      internalID: 5589060076260178535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1456
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230c6f9e4af66870800000000000000
+      internalID: 8675896947764888367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_29
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1456
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039abec827ba573a0800000000000000
+      internalID: -6668235164773275344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1365
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f712fea7e724b820800000000000000
+      internalID: 2933013133351065591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1365
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a103036ae5d3d90800000000000000
+      internalID: -7116427768309474700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1365
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c2070478660d30800000000000000
+      internalID: 4397316933716985194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_33
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1365
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f0893ed0437860800000000000000
+      internalID: 7526430725457900920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_34
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1365
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842d6af1b4752d60800000000000000
+      internalID: 7864820632031929477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1274
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca3cc2b09990ee0800000000000000
+      internalID: -1294335144617595838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1274
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54d0b96c6259c60800000000000000
+      internalID: 7824202562072823281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1274
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94488dccc3a31e0800000000000000
+      internalID: -2217393016023004693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1274
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1a101193351860800000000000000
+      internalID: 7499957452588850432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_39
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1274
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ddc4143c8f72e0800000000000000
+      internalID: -2125826343780362193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1183
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbee685e9c612ce0800000000000000
+      internalID: -1431743779182810124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1183
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698fd4e5d5de28900800000000000000
+      internalID: 685371078583646358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1183
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258a54e5b4c35250800000000000000
+      internalID: 5932301419676337455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1183
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ab6f0bc93ee3650800000000000000
+      internalID: 6214654797941226001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_44
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1183
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85fc651dde536140800000000000000
+      internalID: 4711713938799916430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1092
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e30741218955ea0800000000000000
+      internalID: -5884630134669951488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1092
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa9b8c948beed50800000000000000
+      internalID: 6768549917024168531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1092
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64348184769ce40800000000000000
+      internalID: 5677182364619589282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_48
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1092
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42a084ead0e8220800000000000000
+      internalID: 2489942686166557922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_49
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1092
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565101c7f689ac1c0800000000000000
+      internalID: -4482602874503686811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1001
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a96994bcf2ca50800000000000000
+      internalID: 6540067461493532861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1001
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529409ca3b47f7f0800000000000000
+      internalID: -578911311241113007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1001
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7423255e35bd9140800000000000000
+      internalID: 4728134463129855100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_53
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1001
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429a025d0c03fe20800000000000000
+      internalID: 3383060996435907144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_54
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1001
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b2c74070094250800000000000000
+      internalID: 5929270866650248769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 910
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35480bdbb2aa954d0800000000000000
+      internalID: -3145295759898803117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_56
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 910
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd4a3212d2d2f20800000000000000
+      internalID: 3399422914089770428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_57
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 910
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba99bb2d9f277f0800000000000000
+      internalID: -616155515510478040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 910
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0684b1d3f98ae69c0800000000000000
+      internalID: -3932020022769399712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 819
+        width: 63
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b300dffea998a130800000000000000
+      internalID: 3578278880841040821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 728
+        width: 62
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57986a5a4ff9550800000000000000
+      internalID: 6169919006821676515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 819
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce480836420e1e40800000000000000
+      internalID: 5628939084870733505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_62
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 819
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc061dd7c50a601e0800000000000000
+      internalID: -2231920246207192881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_63
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 819
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4bea518f05eed0800000000000000
+      internalID: -2385483379372241400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_64
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 728
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bd952883a21560800000000000000
+      internalID: 7283063352553485866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 728
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9333de73d8bdcd0800000000000000
+      internalID: -2532275094123497053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_66
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 728
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419bf4f97b7f74580800000000000000
+      internalID: -8842826975294801644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_67
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 728
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990452bb78f07e10800000000000000
+      internalID: 2193526228685949338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_68
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 637
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d62b78ed196740800000000000000
+      internalID: 5145676933583262489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_69
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 637
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df69c8b05ecffcc0800000000000000
+      internalID: -3674991924818120745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_70
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 637
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998dbb67a7caceb60800000000000000
+      internalID: 7776780298540013721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_71
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 637
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255f4a8f715f0210800000000000000
+      internalID: 1301348425556514082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_72
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 637
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f4eb0a4df78df0800000000000000
+      internalID: -177895165788883668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 546
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26dc6453066f8a90800000000000000
+      internalID: -7309511505711671761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_74
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 546
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112649510a6046e0800000000000000
+      internalID: -1855366492451364590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_75
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 546
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b2840d5444fb470800000000000000
+      internalID: 8412517695589198695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 546
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e76d98d542b85f30800000000000000
+      internalID: 4564594235396679655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_77
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 546
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b36c4415428e9e60800000000000000
+      internalID: 7970951623697261489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 455
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c801dd412e5860800000000000000
+      internalID: 7520485045858519232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 455
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e09e6544a5f0c80800000000000000
+      internalID: -8354359534186590709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_80
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 455
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec417bdf89859df30800000000000000
+      internalID: 4600805908450579662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_81
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 455
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820cff21cae8c580800000000000000
+      internalID: -8806530955868372346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_82
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 455
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894b662992648c40800000000000000
+      internalID: 5513640253722413441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_83
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 364
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a9e329393a9f3d0800000000000000
+      internalID: -3172324608296707449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 364
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20316e61795e57300800000000000000
+      internalID: 249357791475929858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 364
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578eb03488c8eb9d0800000000000000
+      internalID: -2756611405035870091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_86
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 364
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df632d31bd34c7a0800000000000000
+      internalID: -6357888942496059437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_87
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 364
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3e5e39a78926ad0800000000000000
+      internalID: -2710436373488868414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_88
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 273
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80971d92b18f24540800000000000000
+      internalID: 4990824132629330184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 273
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fbd4de6c99d1ae0800000000000000
+      internalID: -1576935214845935863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 273
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d955429d2682710800000000000000
+      internalID: 1668692346697784655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_91
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 273
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b204d4104efb80800000000000000
+      internalID: -8359173400152592002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_92
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 273
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d91553c46072bff0800000000000000
+      internalID: -21831470107256368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_93
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccfbcd0aad8be5f0800000000000000
+      internalID: -726331153374774072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_94
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 182
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a7c1ee97a9bb30800000000000000
+      internalID: 4303655219763849609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 182
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9720c8208f6840800000000000000
+      internalID: 5219531405656563371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 182
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba9dc8d10230d540800000000000000
+      internalID: 5030575767286553270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_97
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 182
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2903b33cbc468b0800000000000000
+      internalID: -5159775233687645534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_98
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78bbef353f7d5a0800000000000000
+      internalID: -6496456395377113165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_99
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 91
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6418631ddad2f0800000000000000
+      internalID: -947201696187781400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_100
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 91
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304606f0d80227f0800000000000000
+      internalID: -638938503559364556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_101
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 91
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80785d74e8bb107e0800000000000000
+      internalID: -1800952156206561528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_102
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 91
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3a2528101e1660800000000000000
+      internalID: 7358336537058754443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48af52857cb687b0800000000000000
+      internalID: -5222279505005008819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07598725f6b95c0800000000000000
+      internalID: -4207647026846535469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3840216287691910800000000000000
+      internalID: 1808590535038879803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_rare_item_vendor__x1_idle_png_1354840068_106
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b787c8ff0147f300800000000000000
+      internalID: 285768638215456696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 803c02f5424448b458fd846b18191bef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

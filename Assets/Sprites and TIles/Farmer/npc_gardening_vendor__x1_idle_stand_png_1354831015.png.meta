@@ -1,0 +1,6394 @@
+fileFormatVersion: 2
+guid: a6f323be3262f3f43a291f14834e0a06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4728596708363286611
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_0
+  - first:
+      213: -2312264532316207576
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_1
+  - first:
+      213: 3069148039651551732
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_2
+  - first:
+      213: 8835690115726577036
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_3
+  - first:
+      213: 4236335572378157981
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_4
+  - first:
+      213: 5979612282643886520
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_5
+  - first:
+      213: 3926862177164428825
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_6
+  - first:
+      213: 5571408176659407684
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_7
+  - first:
+      213: 991161656770455354
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_8
+  - first:
+      213: -7207961575027086602
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_9
+  - first:
+      213: -891829459455659417
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_10
+  - first:
+      213: 5781932250435188978
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_11
+  - first:
+      213: 7366395722678645412
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_12
+  - first:
+      213: -7194140447457570984
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_13
+  - first:
+      213: -192300771930741588
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_14
+  - first:
+      213: -491274068291567879
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_15
+  - first:
+      213: 5287054815142005665
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_16
+  - first:
+      213: -105488655116745689
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_17
+  - first:
+      213: -6764953655287282430
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_18
+  - first:
+      213: 8477692587333702324
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_19
+  - first:
+      213: 4032163347244567160
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_20
+  - first:
+      213: -3209003818923418502
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_21
+  - first:
+      213: -7351930687359476571
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_22
+  - first:
+      213: 6244449100399240934
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_23
+  - first:
+      213: 4820720625832765786
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_24
+  - first:
+      213: -7450143612420979372
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_25
+  - first:
+      213: 2229008837816734944
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_26
+  - first:
+      213: 3044838129128675003
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_27
+  - first:
+      213: 4296481305739147119
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_28
+  - first:
+      213: 1903542247539628517
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_29
+  - first:
+      213: -7430394065988808584
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_30
+  - first:
+      213: -4482438148999485158
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_31
+  - first:
+      213: 7852371123764774925
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_32
+  - first:
+      213: -6192922681070393364
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_33
+  - first:
+      213: 6846452161119104472
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_34
+  - first:
+      213: -1441212592929537780
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_35
+  - first:
+      213: -7976446903442642597
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_36
+  - first:
+      213: 7541609851199906159
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_37
+  - first:
+      213: -7148324536261021304
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_38
+  - first:
+      213: -1518410788690221644
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_39
+  - first:
+      213: 4785447911813886123
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_40
+  - first:
+      213: -6444949060174871075
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_41
+  - first:
+      213: -8687494034358508163
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_42
+  - first:
+      213: -3041285914592106105
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_43
+  - first:
+      213: -8559420190131540825
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_44
+  - first:
+      213: -5251390224167754078
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_45
+  - first:
+      213: -3475283637344708243
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_46
+  - first:
+      213: -5526512843467721540
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_47
+  - first:
+      213: 1850980067941949304
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_48
+  - first:
+      213: -1016630076016445128
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_49
+  - first:
+      213: -1923037281423742847
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_50
+  - first:
+      213: -8141786032778015602
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_51
+  - first:
+      213: -3717988523405680054
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_52
+  - first:
+      213: -482286783306841719
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_53
+  - first:
+      213: 5846799992012542745
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_54
+  - first:
+      213: -5542788256009683731
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_55
+  - first:
+      213: -7384063161069728577
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_56
+  - first:
+      213: -6048947147957914366
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_57
+  - first:
+      213: 3388013335110287042
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_58
+  - first:
+      213: -5082352010751884949
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_59
+  - first:
+      213: -179951208562708778
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_60
+  - first:
+      213: -1831676185298037575
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_61
+  - first:
+      213: 6591975263127045321
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_62
+  - first:
+      213: 4599023080428830993
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_63
+  - first:
+      213: -3033835489298677503
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_64
+  - first:
+      213: -2042558368403211732
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_65
+  - first:
+      213: -8371145432743979215
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_66
+  - first:
+      213: 3663439167955424135
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_67
+  - first:
+      213: -3350464585872947894
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_68
+  - first:
+      213: -3342485628181438582
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_69
+  - first:
+      213: 5067563845017542833
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_70
+  - first:
+      213: 4753956735523359937
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_71
+  - first:
+      213: 7489665853451302006
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_72
+  - first:
+      213: -4096453818944086233
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_73
+  - first:
+      213: -4361693531141433642
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_74
+  - first:
+      213: 649325406995206196
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_75
+  - first:
+      213: 7820622988864853527
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_76
+  - first:
+      213: 7373414536976786444
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_77
+  - first:
+      213: -871462824859963097
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_78
+  - first:
+      213: 3998757676130620496
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_79
+  - first:
+      213: -4238938627315071192
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_80
+  - first:
+      213: -2755399120482811285
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_81
+  - first:
+      213: 301487469199069967
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_82
+  - first:
+      213: 1902460792571613084
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_83
+  - first:
+      213: 1059563515183477610
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_84
+  - first:
+      213: 4764653785983351502
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_85
+  - first:
+      213: 4858941502190430510
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_86
+  - first:
+      213: 1031850238586113217
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_87
+  - first:
+      213: -1416785552041374641
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_88
+  - first:
+      213: 5356467022187793867
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_89
+  - first:
+      213: 552352027635761997
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_90
+  - first:
+      213: 796416118767229175
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_91
+  - first:
+      213: 7278490270173445082
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_92
+  - first:
+      213: 3335214548191841659
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_93
+  - first:
+      213: -2018565894708075309
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_94
+  - first:
+      213: -7244844986415160337
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_95
+  - first:
+      213: 3164869458216571360
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_96
+  - first:
+      213: 6153530869655091818
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_97
+  - first:
+      213: -7891869417055663622
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_98
+  - first:
+      213: 5376478568358048864
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_99
+  - first:
+      213: -4511707912349340987
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_100
+  - first:
+      213: -6870756551124294322
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_101
+  - first:
+      213: -3886022640472452554
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_102
+  - first:
+      213: 5674305559447537053
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_103
+  - first:
+      213: -7620223841824431459
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_104
+  - first:
+      213: 9120094866654990621
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_105
+  - first:
+      213: 7850816609619209854
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_106
+  - first:
+      213: 1779081161318657590
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_107
+  - first:
+      213: 859814666772248111
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_108
+  - first:
+      213: -3024188374189856887
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_109
+  - first:
+      213: 1744076731807637902
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_110
+  - first:
+      213: -3270635122063037193
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_111
+  - first:
+      213: 1401597074776423008
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_112
+  - first:
+      213: -5740594725798017396
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_113
+  - first:
+      213: 4327258453721959526
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_114
+  - first:
+      213: 6344170992733762249
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_115
+  - first:
+      213: 4614912106868170359
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_116
+  - first:
+      213: -5084051106205928430
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_117
+  - first:
+      213: -7695483279186168958
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_118
+  - first:
+      213: -463315374893659977
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_119
+  - first:
+      213: 2706355837275059481
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_120
+  - first:
+      213: -5207009406149164760
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_121
+  - first:
+      213: 788440247356869799
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_122
+  - first:
+      213: 5152421980754595529
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_123
+  - first:
+      213: 2833048577433713787
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_124
+  - first:
+      213: 8867567248998894821
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_125
+  - first:
+      213: 902019681420079937
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_126
+  - first:
+      213: -432253370205386692
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_127
+  - first:
+      213: 4611123063652703374
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_128
+  - first:
+      213: -8124410534160446961
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_129
+  - first:
+      213: -3806850152340140261
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_130
+  - first:
+      213: -7708084624898577896
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_131
+  - first:
+      213: -9188018131811627042
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_132
+  - first:
+      213: 2105529267934554757
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_133
+  - first:
+      213: -5362497597504272594
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_134
+  - first:
+      213: 4750240751144967415
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_135
+  - first:
+      213: 4381183811489410691
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_136
+  - first:
+      213: -5785176790515932267
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_137
+  - first:
+      213: -6559379068270889174
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_138
+  - first:
+      213: 4646499042225960670
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_139
+  - first:
+      213: 8442464705872827745
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_140
+  - first:
+      213: -7196301367454694601
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_141
+  - first:
+      213: 5192008385729794094
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_142
+  - first:
+      213: -7519499878164240962
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_143
+  - first:
+      213: 8970711027644117629
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_144
+  - first:
+      213: -8757101036954683867
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_145
+  - first:
+      213: 4259790835923965049
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_146
+  - first:
+      213: 4938147310000936225
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_147
+  - first:
+      213: 3898135031630368776
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_148
+  - first:
+      213: 3934777433282217800
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_149
+  - first:
+      213: 8639784206550872504
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_150
+  - first:
+      213: -3382080490104581171
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_151
+  - first:
+      213: -3277483604515208444
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_152
+  - first:
+      213: -3039068526148747003
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_153
+  - first:
+      213: 3856747134965907937
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_154
+  - first:
+      213: 7512589041747139648
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_155
+  - first:
+      213: -6709610364635960826
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_156
+  - first:
+      213: -2364281392000414356
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_157
+  - first:
+      213: -6388630706664332190
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_158
+  - first:
+      213: 7379418056466689442
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_159
+  - first:
+      213: 7281989574478993126
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_160
+  - first:
+      213: -4174529634358744803
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_161
+  - first:
+      213: -7895934575568874143
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_162
+  - first:
+      213: 3172119777919002095
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_163
+  - first:
+      213: -5229042719009726965
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_164
+  - first:
+      213: -730470501968516688
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_165
+  - first:
+      213: 7156313413369360949
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_166
+  - first:
+      213: 3321475955409567193
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_167
+  - first:
+      213: -2857555649009483089
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_168
+  - first:
+      213: -2439958143431014478
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_169
+  - first:
+      213: 2552705463313262562
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_170
+  - first:
+      213: 4402910328285870445
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_171
+  - first:
+      213: 5357474151308297148
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_172
+  - first:
+      213: -4141062421711715153
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_173
+  - first:
+      213: -8125337782387484211
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_174
+  - first:
+      213: 7955139021719923408
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_175
+  - first:
+      213: -8397325618356300384
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_176
+  - first:
+      213: -1549336495397487130
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_177
+  - first:
+      213: 8460111233397758855
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_178
+  - first:
+      213: 1725270659679924019
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_179
+  - first:
+      213: 3975526619443864589
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_180
+  - first:
+      213: -1766829416791147376
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_181
+  - first:
+      213: 1323713086831439703
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_182
+  - first:
+      213: -4239547113317952262
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_183
+  - first:
+      213: -3383248438477830178
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_184
+  - first:
+      213: 3759141430391911168
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_185
+  - first:
+      213: -1190017096703355966
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_186
+  - first:
+      213: 5228947191651254588
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_187
+  - first:
+      213: -5309788895385664357
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_188
+  - first:
+      213: -2203080867537303768
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_189
+  - first:
+      213: 3992565143702090204
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_190
+  - first:
+      213: 3528631290961756753
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_191
+  - first:
+      213: -8038178091330837334
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_192
+  - first:
+      213: 3318595616019509055
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_193
+  - first:
+      213: -5024825595411732954
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_194
+  - first:
+      213: 5297881797013104662
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_195
+  - first:
+      213: -5288630825230771593
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_196
+  - first:
+      213: -7751375893132526351
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_197
+  - first:
+      213: 8319045154568764897
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_198
+  - first:
+      213: 8216820859262023925
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_199
+  - first:
+      213: -2870083572889257119
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_200
+  - first:
+      213: 2791950646276243767
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_201
+  - first:
+      213: -52072624554939595
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_202
+  - first:
+      213: -2272763135887650362
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_203
+  - first:
+      213: 2460827401460197924
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_204
+  - first:
+      213: 7085518946500367197
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_205
+  - first:
+      213: 5095982237994879040
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_206
+  - first:
+      213: -3174669238400951306
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_207
+  - first:
+      213: -562449559043877858
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_208
+  - first:
+      213: 709596980294642664
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_209
+  - first:
+      213: 1143823652170450831
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_210
+  - first:
+      213: -6811979864008497833
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_211
+  - first:
+      213: -4963463522907651829
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_212
+  - first:
+      213: 2292968550374585112
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_213
+  - first:
+      213: 1931028679576357113
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_214
+  - first:
+      213: -7718266269457422874
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_215
+  - first:
+      213: 1503098529384635152
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_216
+  - first:
+      213: -3155951669362950140
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_217
+  - first:
+      213: 4774373814431481373
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_218
+  - first:
+      213: -8690577002888391049
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_219
+  - first:
+      213: -562967940334349125
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_220
+  - first:
+      213: 7100368412598012103
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_221
+  - first:
+      213: -9183945034315538691
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_222
+  - first:
+      213: 3489682499284773954
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_223
+  - first:
+      213: -303771768768368089
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_224
+  - first:
+      213: -6787950300372041115
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_225
+  - first:
+      213: 4773316594611072754
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_226
+  - first:
+      213: -7025973812786436097
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_227
+  - first:
+      213: -5382154680131360534
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_228
+  - first:
+      213: 7850326007116765231
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_229
+  - first:
+      213: -6228525859905612600
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_230
+  - first:
+      213: -5753758537242690549
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_231
+  - first:
+      213: -526036759997237979
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_232
+  - first:
+      213: 8721492750620026547
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_233
+  - first:
+      213: 8866167810962222853
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_234
+  - first:
+      213: 7593171410471873651
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_235
+  - first:
+      213: 7007163302923758404
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_236
+  - first:
+      213: -7245263800087416391
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_237
+  - first:
+      213: 5270683517853438564
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_238
+  - first:
+      213: -9174269021003359234
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_239
+  - first:
+      213: 4973523819064103886
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_240
+  - first:
+      213: -2726457412036097358
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_241
+  - first:
+      213: -3245155469682741580
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_242
+  - first:
+      213: 8699523011781666873
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_243
+  - first:
+      213: -6160505369224766177
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_244
+  - first:
+      213: 3508791184687986693
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_245
+  - first:
+      213: 8153386562998507825
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_246
+  - first:
+      213: -8771791404717243356
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_247
+  - first:
+      213: 527601582323018275
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_248
+  - first:
+      213: 3302972093324617588
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_249
+  - first:
+      213: 3660771943696646133
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_250
+  - first:
+      213: -5667944139547927705
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_251
+  - first:
+      213: -6425436830704570535
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_252
+  - first:
+      213: 6548819059919321733
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_253
+  - first:
+      213: -5631028587515352807
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_254
+  - first:
+      213: 3439096025745628115
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_255
+  - first:
+      213: 8592546903530704395
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_256
+  - first:
+      213: 2630596133950840210
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_257
+  - first:
+      213: -8724123472059066016
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_258
+  - first:
+      213: -3673331455985907028
+    second: npc_gardening_vendor__x1_idle_stand_png_1354831015_259
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ccefc856a06eb0800000000000000
+      internalID: -4728596708363286611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ce84a8af29efd0800000000000000
+      internalID: -2312264532316207576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9648a81edc79a20800000000000000
+      internalID: 3069148039651551732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d0055c85dae9a70800000000000000
+      internalID: 8835690115726577036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9383fc02cc7aca30800000000000000
+      internalID: 4236335572378157981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13d8190b9dbf250800000000000000
+      internalID: 5979612282643886520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_6
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9168dcf38540f7630800000000000000
+      internalID: 3926862177164428825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ad74d73e915d40800000000000000
+      internalID: 5571408176659407684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376ac2864051cd00800000000000000
+      internalID: 991161656770455354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_9
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa68dd032d28fb90800000000000000
+      internalID: -7207961575027086602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_10
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762baece4d59f93f0800000000000000
+      internalID: -891829459455659417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_11
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8709e6fbc8d3050800000000000000
+      internalID: 5781932250435188978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_12
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2178
+        width: 151
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2b73581e1ba3660800000000000000
+      internalID: 7366395722678645412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_13
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f85051167492c90800000000000000
+      internalID: -7194140447457570984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_14
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e80f777fc45df0800000000000000
+      internalID: -192300771930741588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2178
+        width: 151
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9febe1876d4ae29f0800000000000000
+      internalID: -491274068291567879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_16
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abce84a7546f5940800000000000000
+      internalID: 5287054815142005665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_17
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724cee780aa398ef0800000000000000
+      internalID: -105488655116745689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_18
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050f962e7e0e12a0800000000000000
+      internalID: -6764953655287282430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_19
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2dcfecd70d6a570800000000000000
+      internalID: 8477692587333702324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_20
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87accd4733f15f730800000000000000
+      internalID: 4032163347244567160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_21
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c923a57045773d0800000000000000
+      internalID: -3209003818923418502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1980
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac15a6fdf1b8f990800000000000000
+      internalID: -7351930687359476571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1980
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6ed4f4f5db8a650800000000000000
+      internalID: 6244449100399240934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5929203ed3a6e240800000000000000
+      internalID: 4820720625832765786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45580086bd5cb9890800000000000000
+      internalID: -7450143612420979372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4d54b6ab70fee10800000000000000
+      internalID: 2229008837816734944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6974d6520714a20800000000000000
+      internalID: 3044838129128675003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_28
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6730bcdbfa20ab30800000000000000
+      internalID: 4296481305739147119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_29
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95c87b69dba6a10800000000000000
+      internalID: 1903542247539628517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870119307ffe1e890800000000000000
+      internalID: -7430394065988808584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_31
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e931a04e2bc1c0800000000000000
+      internalID: -4482438148999485158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_32
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c884fee939fc60800000000000000
+      internalID: 7852371123764774925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_33
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e65112a15e0aa0800000000000000
+      internalID: -6192922681070393364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_34
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1980
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda53b67fb730f50800000000000000
+      internalID: 6846452161119104472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_35
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c018d9858c8cffbe0800000000000000
+      internalID: -1441212592929537780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_36
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5969866dc7fd4190800000000000000
+      internalID: -7976446903442642597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_37
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f616b57d33e29a860800000000000000
+      internalID: 7541609851199906159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_38
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f3fc25bc0ccc90800000000000000
+      internalID: -7148324536261021304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_39
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5affcbe658deae0800000000000000
+      internalID: -1518410788690221644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_40
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03dca7583596240800000000000000
+      internalID: 4785447911813886123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_41
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50ac00af0fe86a0800000000000000
+      internalID: -6444949060174871075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_42
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756cbd3432df6780800000000000000
+      internalID: -8687494034358508163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_43
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a658f29e2bc5d0800000000000000
+      internalID: -3041285914592106105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac27e3dfa4d63980800000000000000
+      internalID: -8559420190131540825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a5870a605f17b0800000000000000
+      internalID: -5251390224167754078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d695756d1ff45cfc0800000000000000
+      internalID: -3475283637344708243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f87e79d1ed43b0800000000000000
+      internalID: -5526512843467721540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f120c909000b910800000000000000
+      internalID: 1850980067941949304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_49
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839bf0b055434e1f0800000000000000
+      internalID: -1016630076016445128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_50
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a7eef7cfff45e0800000000000000
+      internalID: -1923037281423742847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_51
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c870f7db0920f80800000000000000
+      internalID: -8141786032778015602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_52
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ec6ff22d076cc0800000000000000
+      internalID: -3717988523405680054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_53
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814121d9b29e49f0800000000000000
+      internalID: -482286783306841719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_54
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9131aa47d91042150800000000000000
+      internalID: 5846799992012542745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_55
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf557b27f0413b0800000000000000
+      internalID: -5542788256009683731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_56
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1782
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc046d6da9868990800000000000000
+      internalID: -7384063161069728577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_57
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2053bdc1e92dd0ca0800000000000000
+      internalID: -6048947147957914366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_58
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef8858d24a40f20800000000000000
+      internalID: 3388013335110287042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_59
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6144af06cbd779b0800000000000000
+      internalID: -5082352010751884949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_60
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea7b8445fa08df0800000000000000
+      internalID: -179951208562708778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_61
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b494cfc6349496e0800000000000000
+      internalID: -1831676185298037575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_62
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c489d673966b7b50800000000000000
+      internalID: 6591975263127045321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_63
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11188ceff1303df30800000000000000
+      internalID: 4599023080428830993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_64
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101016942b6a5e5d0800000000000000
+      internalID: -3033835489298677503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_65
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a33526cff57a3e0800000000000000
+      internalID: -2042558368403211732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375926c497b3db80800000000000000
+      internalID: -8371145432743979215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7835c36738627d230800000000000000
+      internalID: 3663439167955424135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_68
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45448ee532c081d0800000000000000
+      internalID: -3350464585872947894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_69
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9569c70b1d91d0800000000000000
+      internalID: -3342485628181438582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_70
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b022eac77a935640800000000000000
+      internalID: 5067563845017542833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_71
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0272a67279f140800000000000000
+      internalID: 4753956735523359937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_72
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67476596963a0f760800000000000000
+      internalID: 7489665853451302006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_73
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9b03a4f87627c0800000000000000
+      internalID: -4096453818944086233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_74
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d61239b7d62873c0800000000000000
+      internalID: -4361693531141433642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_75
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d593740ed20900800000000000000
+      internalID: 649325406995206196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_76
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161b854c2f688c60800000000000000
+      internalID: 7820622988864853527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_77
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04e3329471a35660800000000000000
+      internalID: 7373414536976786444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_78
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1584
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72173419d21f7e3f0800000000000000
+      internalID: -871462824859963097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_79
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d1ac8be07e7730800000000000000
+      internalID: 3998757676130620496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_80
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827043ef6c34c25c0800000000000000
+      internalID: -4238938627315071192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_81
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c231491bd2c9d0800000000000000
+      internalID: -2755399120482811285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_82
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0397d181491f2400800000000000000
+      internalID: 301487469199069967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_83
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc65cd206e66a10800000000000000
+      internalID: 1902460792571613084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_84
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b97b376354be00800000000000000
+      internalID: 1059563515183477610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_85
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf147cf537f1240800000000000000
+      internalID: 4764653785983351502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_86
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a67e6d8d6e6340800000000000000
+      internalID: 4858941502190430510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_87
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc354335ed15e00800000000000000
+      internalID: 1031850238586113217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c0baffb01965ce0800000000000000
+      internalID: -1416785552041374641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd099c706ef55a40800000000000000
+      internalID: 5356467022187793867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_90
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43423e1e395aa700800000000000000
+      internalID: 552352027635761997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_91
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8148c8d307d0b00800000000000000
+      internalID: 796416118767229175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_92
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb33de6654620560800000000000000
+      internalID: 7278490270173445082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_93
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d80baf5ff094e20800000000000000
+      internalID: 3335214548191841659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_94
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e43a730d9cf3e0800000000000000
+      internalID: -2018565894708075309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_95
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe364f3aed3257b90800000000000000
+      internalID: -7244844986415160337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_96
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15b790100ebeb20800000000000000
+      internalID: 3164869458216571360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_97
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a313029bbb56550800000000000000
+      internalID: 6153530869655091818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_98
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c0aef3927a7290800000000000000
+      internalID: -7891869417055663622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_99
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647b79a5c61d9a40800000000000000
+      internalID: 5376478568358048864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_100
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1386
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca291ace813361c0800000000000000
+      internalID: -4511707912349340987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_101
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456c00d15b26a0a0800000000000000
+      internalID: -6870756551124294322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_102
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632938d5ff2121ac0800000000000000
+      internalID: -3886022640472452554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_103
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9505e1b7de2fbe40800000000000000
+      internalID: 5674305559447537053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_104
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a71f1ac68f3690800000000000000
+      internalID: -7620223841824431459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_105
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1195dcf5f5119e70800000000000000
+      internalID: 9120094866654990621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_106
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee61d6c14b3fc60800000000000000
+      internalID: 7850816609619209854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_107
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eecf6e3e090b810800000000000000
+      internalID: 1779081161318657590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_108
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2671a942ecaeeb00800000000000000
+      internalID: 859814666772248111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_109
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9872c8e42bce706d0800000000000000
+      internalID: -3024188374189856887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1188
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e812b6c0c84343810800000000000000
+      internalID: 1744076731807637902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_111
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1188
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc248f5fae5c92d0800000000000000
+      internalID: -3270635122063037193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_112
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1188
+        width: 149
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a76401d19737310800000000000000
+      internalID: 1401597074776423008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_113
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1188
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c860459038f4550b0800000000000000
+      internalID: -5740594725798017396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_114
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1188
+        width: 149
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c476903a28d0c30800000000000000
+      internalID: 4327258453721959526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_115
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1188
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2bb30b7e50b0850800000000000000
+      internalID: 6344170992733762249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_116
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1188
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed68f3c167b0040800000000000000
+      internalID: 4614912106868170359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_117
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f9a29472d179b0800000000000000
+      internalID: -5084051106205928430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_118
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837621eab6243590800000000000000
+      internalID: -7695483279186168958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_119
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88c7c0f19f199f0800000000000000
+      internalID: -463315374893659977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_120
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915b59c8b48ee8520800000000000000
+      internalID: 2706355837275059481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_121
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218c54788cfcb7b0800000000000000
+      internalID: -5207009406149164760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_122
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc3564a3a11fa00800000000000000
+      internalID: 788440247356869799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_123
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cecac72e74118740800000000000000
+      internalID: 5152421980754595529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_124
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cbc59cba2015720800000000000000
+      internalID: 2833048577433713787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_125
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec877a3e6def0b70800000000000000
+      internalID: 8867567248998894821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_126
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14374730f1e948c00800000000000000
+      internalID: 902019681420079937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_127
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3841f799d3500af0800000000000000
+      internalID: -432253370205386692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_128
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c51a0eefffdff30800000000000000
+      internalID: 4611123063652703374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_129
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0acce50aab404f80800000000000000
+      internalID: -8124410534160446961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_130
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fcf9cb4f95b2bc0800000000000000
+      internalID: -3806850152340140261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_131
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a25427fd1670590800000000000000
+      internalID: -7708084624898577896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0587703a9d7080800000000000000
+      internalID: -9188018131811627042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a6d6fa6b7583d10800000000000000
+      internalID: 2105529267934554757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_134
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e274fd7c8d49495b0800000000000000
+      internalID: -5362497597504272594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_135
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc94999bce3ce140800000000000000
+      internalID: 4750240751144967415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_136
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea48bc6771dcc30800000000000000
+      internalID: 4381183811489410691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_137
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a6763c5ce6bfa0800000000000000
+      internalID: -5785176790515932267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_138
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b4909d7768f4a0800000000000000
+      internalID: -6559379068270889174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_139
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6321db24eab7040800000000000000
+      internalID: 4646499042225960670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_140
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165925e7be8a92570800000000000000
+      internalID: 8442464705872827745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_141
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338430b80a912c90800000000000000
+      internalID: -7196301367454694601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_142
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20164e4e18bd0840800000000000000
+      internalID: 5192008385729794094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_143
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb56d6963be55a790800000000000000
+      internalID: -7519499878164240962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_144
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723869962e5e7c70800000000000000
+      internalID: 8970711027644117629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_145
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267c160107887680800000000000000
+      internalID: -8757101036954683867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_146
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97456b82231dd1b30800000000000000
+      internalID: 4259790835923965049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_147
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1251825a0d2d78440800000000000000
+      internalID: 4938147310000936225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_148
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80095d67825f81630800000000000000
+      internalID: 3898135031630368776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_149
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847820d6a332b9630800000000000000
+      internalID: 3934777433282217800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_150
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1be77d5fda6e770800000000000000
+      internalID: 8639784206550872504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_151
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3998996bf6011d0800000000000000
+      internalID: -3382080490104581171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_152
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40344bbc60a0482d0800000000000000
+      internalID: -3277483604515208444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_153
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50185d2f64f03d5d0800000000000000
+      internalID: -3039068526148747003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e10628d51be58530800000000000000
+      internalID: 3856747134965907937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_155
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c94d81ee3124860800000000000000
+      internalID: 7512589041747139648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_156
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a28922ceca2e2a0800000000000000
+      internalID: -6709610364635960826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_157
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dcfb8b992603fd0800000000000000
+      internalID: -2364281392000414356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_158
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ae1088360757a0800000000000000
+      internalID: -6388630706664332190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_159
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adecc0ef95f86660800000000000000
+      internalID: 7379418056466689442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_160
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e61be4bfe2de0560800000000000000
+      internalID: 7281989574478993126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_161
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a4b74a671116c0800000000000000
+      internalID: -4174529634358744803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_162
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651e7586510c6290800000000000000
+      internalID: -7895934575568874143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_163
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56ad3a122a50c20800000000000000
+      internalID: 3172119777919002095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_164
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e151a0a55be67b0800000000000000
+      internalID: -5229042719009726965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_165
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e34bd2f8dcd5f0800000000000000
+      internalID: -730470501968516688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_166
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327e393225505360800000000000000
+      internalID: 7156313413369360949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_167
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd303498c0481e20800000000000000
+      internalID: 3321475955409567193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_168
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa201e6f64ce758d0800000000000000
+      internalID: -2857555649009483089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_169
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b709f9fef6832ed0800000000000000
+      internalID: -2439958143431014478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_170
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e76cf418180d6320800000000000000
+      internalID: 2552705463313262562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_171
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b06fad974a1d30800000000000000
+      internalID: 4402910328285870445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_172
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb381120b52995a40800000000000000
+      internalID: 5357474151308297148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_173
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48721faadf786c0800000000000000
+      internalID: -4141062421711715153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_174
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9dbb836500d3f80800000000000000
+      internalID: -8125337782387484211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_175
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae678cac4566e60800000000000000
+      internalID: 7955139021719923408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d59e47d4b67b80800000000000000
+      internalID: -8397325618356300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_177
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb84a8aa6af7ae0800000000000000
+      internalID: -1549336495397487130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_178
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b17fad75a586570800000000000000
+      internalID: 8460111233397758855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_179
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f20ab268461f710800000000000000
+      internalID: 1725270659679924019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_180
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04af0ba568eb2730800000000000000
+      internalID: 3975526619443864589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_181
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf379a106fa77e0800000000000000
+      internalID: -1766829416791147376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_182
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75faf150a06ce5210800000000000000
+      internalID: 1323713086831439703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_183
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4962ecc5a1a25c0800000000000000
+      internalID: -4239547113317952262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_184
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed742ad68794c01d0800000000000000
+      internalID: -3383248438477830178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_185
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b6f2d6372b2430800000000000000
+      internalID: 3759141430391911168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_186
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3da5a61c53c7fe0800000000000000
+      internalID: -1190017096703355966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_187
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3146a344c3f09840800000000000000
+      internalID: 5228947191651254588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_188
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b944932d127df46b0800000000000000
+      internalID: -5309788895385664357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_189
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827caf69f951d61e0800000000000000
+      internalID: -2203080867537303768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_190
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd138fc38d0786730800000000000000
+      internalID: 3992565143702090204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_191
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528a11b67738f030800000000000000
+      internalID: 3528631290961756753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_192
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e5e03d97a27090800000000000000
+      internalID: -8038178091330837334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_193
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe20e41250e0e20800000000000000
+      internalID: 3318595616019509055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_194
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626613f5ebb344ab0800000000000000
+      internalID: -5024825595411732954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_195
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61869fccc6bd58940800000000000000
+      internalID: 5297881797013104662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_196
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a50f9e8420b96b0800000000000000
+      internalID: -5288630825230771593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_197
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3f4991b49d6490800000000000000
+      internalID: -7751375893132526351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_198
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed718ced7f237370800000000000000
+      internalID: 8319045154568764897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_199
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f835537903080270800000000000000
+      internalID: 8216820859262023925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7042623a6b28d0800000000000000
+      internalID: -2870083572889257119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_201
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c7b502500fb620800000000000000
+      internalID: 2791950646276243767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_202
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b61ee4930074ff0800000000000000
+      internalID: -52072624554939595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_203
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c150d238f58570e0800000000000000
+      internalID: -2272763135887650362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_204
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a259dcb7d962220800000000000000
+      internalID: 2460827401460197924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_205
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53547fe0f1d45260800000000000000
+      internalID: 7085518946500367197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_206
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048826588d098b640800000000000000
+      internalID: 5095982237994879040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_207
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb50c5d52f41f3d0800000000000000
+      internalID: -3174669238400951306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_208
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145d152b17c138f0800000000000000
+      internalID: -562449559043877858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_209
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe628a1bef8d900800000000000000
+      internalID: 709596980294642664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_210
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874f492d8dafdf00800000000000000
+      internalID: 1143823652170450831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_211
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e8a4b76cf671a0800000000000000
+      internalID: -6811979864008497833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_212
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 396
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010b75393c3e1bb0800000000000000
+      internalID: -4963463522907651829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_213
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 396
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81338367fb242df10800000000000000
+      internalID: 2292968550374585112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_214
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 396
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88d316a546cca10800000000000000
+      internalID: 1931028679576357113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_215
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 396
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56c1798b533e490800000000000000
+      internalID: -7718266269457422874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_216
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 396
+        width: 150
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b126216241cd410800000000000000
+      internalID: 1503098529384635152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_217
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 396
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400025b7daec334d0800000000000000
+      internalID: -3155951669362950140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_218
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7d1240bbf14240800000000000000
+      internalID: 4774373814431481373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_219
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77698a1b24ed46780800000000000000
+      internalID: -8690577002888391049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_220
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4107814afef28f0800000000000000
+      internalID: -562967940334349125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_221
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c80f4fa373998260800000000000000
+      internalID: 7100368412598012103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_222
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed8e066a21c8080800000000000000
+      internalID: -9183945034315538691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_223
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c24c47eb7dd6030800000000000000
+      internalID: 3489682499284773954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_224
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f4cd8f29c8cbf0800000000000000
+      internalID: -303771768768368089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_225
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56281597a2b5cc1a0800000000000000
+      internalID: -6787950300372041115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_226
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2546172a3e3240800000000000000
+      internalID: 4773316594611072754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_227
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7eaafda0abe7e90800000000000000
+      internalID: -7025973812786436097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_228
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8609495debe45b0800000000000000
+      internalID: -5382154680131360534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_229
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28943129e5f1fc60800000000000000
+      internalID: 7850326007116765231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_230
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ddf50bb4df89a0800000000000000
+      internalID: -6228525859905612600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_231
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3748581b8620b0800000000000000
+      internalID: -5753758537242690549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_232
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 198
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52531959a5423b8f0800000000000000
+      internalID: -526036759997237979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_233
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e9dfb277f80970800000000000000
+      internalID: 8721492750620026547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_234
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe76b26a4fa0b70800000000000000
+      internalID: 8866167810962222853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_235
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce3dfda2d506960800000000000000
+      internalID: 7593171410471873651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_236
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b6ce106e17e3160800000000000000
+      internalID: 7007163302923758404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_237
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1facbf5f6a37b90800000000000000
+      internalID: -7245263800087416391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_238
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621925fbba352940800000000000000
+      internalID: 5270683517853438564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_239
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb5939cee27ea080800000000000000
+      internalID: -9174269021003359234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_240
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec392450091850540800000000000000
+      internalID: 4973523819064103886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_241
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8b5cdd6da92ad0800000000000000
+      internalID: -2726457412036097358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_242
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee4ac3b44e6f2d0800000000000000
+      internalID: -3245155469682741580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_243
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382590561aeab870800000000000000
+      internalID: 8699523011781666873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_244
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9876a10d718aa0800000000000000
+      internalID: -6160505369224766177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_245
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508795afdfab1b030800000000000000
+      internalID: 3508791184687986693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_246
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13918fb61e5a62170800000000000000
+      internalID: 8153386562998507825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_247
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424010e3136544680800000000000000
+      internalID: -8771791404717243356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_248
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a2c4108da625700800000000000000
+      internalID: 527601582323018275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_249
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47764a57e9386dd20800000000000000
+      internalID: 3302972093324617588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_250
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff31cbefacadc230800000000000000
+      internalID: 3660771943696646133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_251
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1d7bc5da6751b0800000000000000
+      internalID: -5667944139547927705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_252
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6423fe3344d6a0800000000000000
+      internalID: -6425436830704570535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_253
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7cc4ec3412ea50800000000000000
+      internalID: 6548819059919321733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_254
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 0
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e31985519ad1b0800000000000000
+      internalID: -5631028587515352807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_255
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db96034d9f1abf20800000000000000
+      internalID: 3439096025745628115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_256
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e84dc22ebde3770800000000000000
+      internalID: 8592546903530704395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_257
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd7af0f31c18420800000000000000
+      internalID: 2630596133950840210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_258
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069954facefade680800000000000000
+      internalID: -8724123472059066016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_gardening_vendor__x1_idle_stand_png_1354831015_259
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa01bfb084b50dc0800000000000000
+      internalID: -3673331455985907028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09e1928553bfa6f4ba29e8f750cf18af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
