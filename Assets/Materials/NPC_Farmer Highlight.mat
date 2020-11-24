@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Boolean_1B41AF11: 0
+    - Boolean_1B41AF11: 1
     - Boolean_7D79312B: 0
     - Vector1_A23FD544: 0.0015
     m_Colors:

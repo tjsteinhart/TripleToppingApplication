@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine.InputSystem;
 using System;
+using Dialogue;
 
 public class PlayerController : MonoBehaviour
 {
@@ -14,6 +15,9 @@ public class PlayerController : MonoBehaviour
     private Vector2 moveAxis;
     private bool isMoving = false;
     private bool interactWithOthers = false;
+    GameObject interactable = null;
+
+    public Player_Inputs PlayerInputs() => playerInputControls;
 
     private void Awake()
     {
@@ -26,6 +30,8 @@ public class PlayerController : MonoBehaviour
         playerInputControls.Enable();
 
         playerInputControls.Player.Move.performed += PlayerMove;
+        //playerInputControls.Player.Interact.performed += PlayerInteract;
+        playerInputControls.Player.Interact.started += PlayerInteract;
     }
 
     private void OnDisable()
@@ -38,13 +44,22 @@ public class PlayerController : MonoBehaviour
         MovePlayer();
     }
 
-
     public void PlayerInteract(InputAction.CallbackContext context)
     {
-        if (interactWithOthers)
+        if (context.started)
         {
-            //Talks to NPC if applicable
-            Debug.Log("Interact");
+            playerInputControls.Disable();
+            if (interactWithOthers)
+            {
+                AIConversant aiToTalk = new AIConversant();
+                if (interactable.GetComponent<AIConversant>())
+                {
+                    aiToTalk = interactable.GetComponent<AIConversant>();
+                    aiToTalk.StartDialogue();
+                    return;
+                }
+            }
+            
         }
     }
 
@@ -92,6 +107,7 @@ public class PlayerController : MonoBehaviour
         {
             other.gameObject.GetComponent<Interactable>().HighlightInteractable();
             interactWithOthers = true;
+            interactable = other.gameObject;
         }
     }
 
@@ -100,7 +116,8 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.GetComponent<Interactable>() != null)
         {
             collision.gameObject.GetComponent<Interactable>().UnHighlightInteractable();
-
+            interactWithOthers = false;
+            interactable = null;
         }
     }
 

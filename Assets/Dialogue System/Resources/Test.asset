@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: 
   nodes:
-  - {fileID: 3552378925167616270}
-  - {fileID: 6803041131847186971}
+  - {fileID: 7420198715192439634}
   newNodeOffset: {x: 250, y: 0}
---- !u!114 &3552378925167616270
+  isOneTimeDialogue: 1
+--- !u!114 &7420198715192439634
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -26,36 +26,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
-  m_Name: 90314f5e-fb00-4d49-b888-5c9569dc1ef2
+  m_Name: 8055dea1-01e9-43e5-9408-575672df7707
   m_EditorClassIdentifier: 
-  text: 
-  childrenIDs:
-  - 3752cd10-4bf5-4f13-b0d0-d0fc584d77d7
-  nodeRect:
-    serializedVersion: 2
-    x: 16
-    y: 43
-    width: 200
-    height: 100
-  isPlayerSpeaking: 0
---- !u!114 &6803041131847186971
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
-  m_Name: 3752cd10-4bf5-4f13-b0d0-d0fc584d77d7
-  m_EditorClassIdentifier: 
-  text: 
+  text: Test
   childrenIDs: []
   nodeRect:
     serializedVersion: 2
-    x: 326
-    y: 89
+    x: 0
+    y: 0
     width: 200
     height: 100
-  isPlayerSpeaking: 1
+  isPlayerSpeaking: 0

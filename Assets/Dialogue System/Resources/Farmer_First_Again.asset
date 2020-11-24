@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4695796012187929370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: 9d8bd895-d48f-4a24-8cbc-10881d58d0a8
+  m_EditorClassIdentifier: 
+  text: And I'm using the new Unity Input System.
+  childrenIDs: []
+  nodeRect:
+    serializedVersion: 2
+    x: 305
+    y: 329
+    width: 200
+    height: 100
+  isPlayerSpeaking: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce6daf250d5a084fa3abbb567959faf, type: 3}
+  m_Name: Farmer_First_Again
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 838301176832109329}
+  - {fileID: 43612384080440404}
+  - {fileID: 2126008141955375540}
+  - {fileID: -4695796012187929370}
+  newNodeOffset: {x: 250, y: 0}
+--- !u!114 &43612384080440404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: dc3058c7-41da-406f-b19a-c9ab039314e6
+  m_EditorClassIdentifier: 
+  text: Sure, there's a dialogue system using the Unity Editor.
+  childrenIDs: []
+  nodeRect:
+    serializedVersion: 2
+    x: 324
+    y: 42
+    width: 200
+    height: 100
+  isPlayerSpeaking: 1
+--- !u!114 &838301176832109329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: 39b57515-43eb-488d-a865-63dbf229a336
+  m_EditorClassIdentifier: 
+  text: Hey, I forgot what you added to this demo.  Could you remind me?
+  childrenIDs:
+  - dc3058c7-41da-406f-b19a-c9ab039314e6
+  - fc2c3031-7e06-4b62-b7d1-c44fe25ba7ed
+  - 9d8bd895-d48f-4a24-8cbc-10881d58d0a8
+  nodeRect:
+    serializedVersion: 2
+    x: 28
+    y: 65
+    width: 200
+    height: 100
+  isPlayerSpeaking: 0
+--- !u!114 &2126008141955375540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: fc2c3031-7e06-4b62-b7d1-c44fe25ba7ed
+  m_EditorClassIdentifier: 
+  text: ' shows me what I can interact with when I get close.'
+  childrenIDs: []
+  nodeRect:
+    serializedVersion: 2
+    x: 316
+    y: 183
+    width: 200
+    height: 100
+  isPlayerSpeaking: 1

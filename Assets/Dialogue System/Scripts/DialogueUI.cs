@@ -27,12 +27,14 @@ namespace DialogueUI
         {
             nextButton.onClick.AddListener(Next);
             quitButton.onClick.AddListener(Quit);
+            
         }
 
         private void OnEnable()
         {
-            playerConversant.onConversationUpdated += UpdateUI;
             UpdateUI();
+            playerConversant.onConversationUpdated += UpdateUI;
+            
         }
 
         private void OnDisable()

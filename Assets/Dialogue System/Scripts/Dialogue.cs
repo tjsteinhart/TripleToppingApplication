@@ -11,6 +11,9 @@ namespace Dialogue
     {
         [SerializeField] List<DialogueNode> nodes = new List<DialogueNode>();
         [SerializeField] Vector2 newNodeOffset = new Vector2(250, 0);
+        [SerializeField] bool isOneTimeDialogue = false;
+
+        public bool IsOneTimeDialogue() => isOneTimeDialogue;
 
         Dictionary<string, DialogueNode> nodeLookup = new Dictionary<string, DialogueNode>();
 

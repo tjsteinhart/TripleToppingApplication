@@ -11,13 +11,15 @@ namespace Dialogue
         Dialogue currentDialogue;
         DialogueNode currentNode = null;
 
+        Animator playerAnimator;
+
         bool isChoosing = false;
 
         public event Action onConversationUpdated;  
 
-        private void Awake()
+        private void Start()
         {
-            currentNode = currentDialogue.GetRootNode();
+            playerAnimator = GetComponent<Animator>();
         }
 
         public void StartDialogue(Dialogue newDialogue)
@@ -67,16 +69,22 @@ namespace Dialogue
             int numPlayerResponses = currentDialogue.GetPlayerChildren(currentNode).Count();
             if(numPlayerResponses > 0)
             {
+                playerAnimator.SetBool("IsTalking", true);
                 isChoosing = true;
                 onConversationUpdated();
                 return;
             }
 
             DialogueNode[] children = currentDialogue.GetAIChildren(currentNode).ToArray();
-            int randomNode = UnityEngine.Random.Range(0, children.Count());
-            
-            currentNode = children[randomNode];
-            onConversationUpdated();
+            if(children.Length > 0)
+            {
+                int randomNode = UnityEngine.Random.Range(0, children.Count());
+                currentNode = children[randomNode];
+                playerAnimator.SetBool("IsTalking", false);
+                onConversationUpdated();
+                return;
+            }
+            QuitDialogue();
         }
 
         public bool HasNext()
@@ -89,7 +97,11 @@ namespace Dialogue
             currentDialogue = null;
             currentNode = null;
             isChoosing = false;
+            GetComponent<PlayerController>().PlayerInputs().Enable();
+            playerAnimator.SetBool("IsTalking", false);
+
             onConversationUpdated();
+
         }
     }
 }

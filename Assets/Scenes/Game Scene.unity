@@ -1272,7 +1272,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1046389b2dd170438b90aef7083c735, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentDialogue: {fileID: 11400000, guid: a8b19dff0c4a82e4499c39d37e627fde, type: 2}
 --- !u!1001 &1019457573
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2365,6 +2364,7 @@ MonoBehaviour:
   nextButton: {fileID: 660353254}
   choiceRoot: {fileID: 1855970461}
   choiceButtonPrefab: {fileID: 795201564852996364, guid: 3c89e6fe19f84c346b64ead040b1bd2a, type: 3}
+  quitButton: {fileID: 1931204582}
   aiResponse: {fileID: 1221573807}
 --- !u!1001 &1502544123
 PrefabInstance:
@@ -3688,6 +3688,7 @@ GameObject:
   - component: {fileID: 2143025777}
   - component: {fileID: 2143025778}
   - component: {fileID: 2143025779}
+  - component: {fileID: 2143025780}
   m_Layer: 0
   m_Name: NPC Farmer
   m_TagString: Untagged
@@ -3769,6 +3770,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   highlightMaterial: {fileID: 2100000, guid: 3a1071fe1e0020e4699b503992e9e8bc, type: 2}
   materialBool: Boolean_1B41AF11
+--- !u!114 &2143025780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2143025775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46226035a44dd984fa8df15b8a6126b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aiDialogues:
+  - {fileID: 11400000, guid: 2abc4a2df366d844eb453d53ff8c334d, type: 2}
+  - {fileID: 11400000, guid: b57a0bf224ba6e44bbc55f7ad15b8eb5, type: 2}
+  - {fileID: 11400000, guid: 9def1d5df7081f144b7261c939f5e243, type: 2}
+  - {fileID: 11400000, guid: 7e7ef3fbb67e7bf47a17be8312ccec78, type: 2}
+  - {fileID: 11400000, guid: bf9af2982a33f894bb4d33d0a8f2ad6d, type: 2}
+  animator: {fileID: 0}
 --- !u!1001 &795201564798504708
 PrefabInstance:
   m_ObjectHideFlags: 0
