@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     private bool isMoving = false;
     private bool interactWithOthers = false;
     GameObject interactable = null;
+    PlayerConversant playerConversant = null;
 
     public Player_Inputs PlayerInputs() => playerInputControls;
 
@@ -23,6 +24,7 @@ public class PlayerController : MonoBehaviour
     {
         playerAnimator = GetComponent<Animator>();
         playerInputControls = new Player_Inputs();
+        playerConversant = GetComponent<PlayerConversant>();
     }
 
     private void OnEnable()
@@ -30,7 +32,6 @@ public class PlayerController : MonoBehaviour
         playerInputControls.Enable();
 
         playerInputControls.Player.Move.performed += PlayerMove;
-        //playerInputControls.Player.Interact.performed += PlayerInteract;
         playerInputControls.Player.Interact.started += PlayerInteract;
     }
 
@@ -51,11 +52,10 @@ public class PlayerController : MonoBehaviour
             playerInputControls.Disable();
             if (interactWithOthers)
             {
-                AIConversant aiToTalk = new AIConversant();
                 if (interactable.GetComponent<AIConversant>())
                 {
-                    aiToTalk = interactable.GetComponent<AIConversant>();
-                    aiToTalk.StartDialogue();
+                    var aiConversant = interactable.GetComponent<AIConversant>();
+                    playerConversant.StartDialogue(aiConversant, aiConversant.GetCurrentDialogue());
                     return;
                 }
             }

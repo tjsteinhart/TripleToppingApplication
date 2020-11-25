@@ -9,12 +9,16 @@ namespace Dialogue
     
     public class DialogueNode : ScriptableObject
     {
-        [SerializeField] string text;
+        [TextArea] [SerializeField] string text;
         [SerializeField] List<string> childrenIDs = new List<string>();
         [SerializeField] Rect nodeRect = new Rect(0,0,200,100);
 
         //If you want to have more than 2 speakers, try using an enum
         [SerializeField] bool isPlayerSpeaking = false;
+
+        //Fields for triggering actions based on nodes
+        [SerializeField] string onEnterAction;
+        [SerializeField] string onExitAction;
 
         public string GetText() => text;
         public List<string> GetChildrenIDs() => childrenIDs;
@@ -22,7 +26,10 @@ namespace Dialogue
 
         public bool IsPlayerSpeaking() => isPlayerSpeaking;
 
-        //Pre-processor directive, will only include this in the editor, not when the game is being built or running
+        public string GetOnEnterAction() => onEnterAction;
+        public string GetOnExitAction() => onExitAction;
+
+//Pre-processor directive, will only include this in the editor, not when the game is being built or running
 #if UNITY_EDITOR
         public void SetRectPosition(Vector2 newPos)
         {

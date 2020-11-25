@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: 9d8bd895-d48f-4a24-8cbc-10881d58d0a8
   m_EditorClassIdentifier: 
-  text: And I'm using the new Unity Input System.
+  text: And I'm using the new Unity Input System to control movement and interaction.
   childrenIDs: []
   nodeRect:
     serializedVersion: 2
@@ -39,6 +39,7 @@ MonoBehaviour:
   - {fileID: 2126008141955375540}
   - {fileID: -4695796012187929370}
   newNodeOffset: {x: 250, y: 0}
+  isOneTimeDialogue: 0
 --- !u!114 &43612384080440404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51,12 +52,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: dc3058c7-41da-406f-b19a-c9ab039314e6
   m_EditorClassIdentifier: 
-  text: Sure, there's a dialogue system using the Unity Editor.
+  text: Sure, there's a dialogue system that uses the Unity Editor.
   childrenIDs: []
   nodeRect:
     serializedVersion: 2
-    x: 324
-    y: 42
+    x: 315
+    y: 32
     width: 200
     height: 100
   isPlayerSpeaking: 1
@@ -96,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: fc2c3031-7e06-4b62-b7d1-c44fe25ba7ed
   m_EditorClassIdentifier: 
-  text: ' shows me what I can interact with when I get close.'
+  text: There's also a shader that highlights interactable NPCs when I get close.
   childrenIDs: []
   nodeRect:
     serializedVersion: 2

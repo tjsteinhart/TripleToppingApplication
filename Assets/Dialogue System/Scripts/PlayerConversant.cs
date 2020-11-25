@@ -12,20 +12,35 @@ namespace Dialogue
         DialogueNode currentNode = null;
 
         Animator playerAnimator;
+        AIConversant currentConversant = null;
 
         bool isChoosing = false;
 
-        public event Action onConversationUpdated;  
+        public event Action onConversationUpdated;
 
         private void Start()
         {
             playerAnimator = GetComponent<Animator>();
         }
 
-        public void StartDialogue(Dialogue newDialogue)
+        public void StartDialogue(AIConversant conversant, Dialogue newDialogue)
         {
+            currentConversant = conversant;
             currentDialogue = newDialogue;
             currentNode = currentDialogue.GetRootNode();
+
+            if (currentNode.IsPlayerSpeaking())
+            {
+                playerAnimator.SetBool("IsTalking", true);
+                currentConversant.TalkAnimation(false);
+            }
+            else
+            {
+                playerAnimator.SetBool("IsTalking", false);
+                currentConversant.TalkAnimation(true);
+            }
+
+            TriggerEnterAction();
             onConversationUpdated();
         }
 
@@ -60,6 +75,7 @@ namespace Dialogue
         public void SelectChoice(DialogueNode chosenNode)
         {
             currentNode = chosenNode;
+            TriggerEnterAction();
             isChoosing = false;
             Next();
         }
@@ -70,7 +86,9 @@ namespace Dialogue
             if(numPlayerResponses > 0)
             {
                 playerAnimator.SetBool("IsTalking", true);
+                currentConversant.TalkAnimation(false);
                 isChoosing = true;
+                TriggerExtiAction();
                 onConversationUpdated();
                 return;
             }
@@ -79,11 +97,15 @@ namespace Dialogue
             if(children.Length > 0)
             {
                 int randomNode = UnityEngine.Random.Range(0, children.Count());
+                TriggerExtiAction();
                 currentNode = children[randomNode];
+                TriggerEnterAction();
                 playerAnimator.SetBool("IsTalking", false);
+                currentConversant.TalkAnimation(true);
                 onConversationUpdated();
                 return;
             }
+            //FinishedCurrentDialogue();
             QuitDialogue();
         }
 
@@ -92,16 +114,63 @@ namespace Dialogue
             return currentDialogue.GetAllChildren(currentNode).Count() > 0;
         }
 
+        private void TriggerEnterAction()
+        {
+            if(currentNode != null)
+            {
+                TriggerAction(currentNode.GetOnEnterAction());
+            }
+        }
+
+        private void TriggerExtiAction()
+        {
+            if (currentNode != null)
+            {
+                TriggerAction(currentNode.GetOnExitAction());
+            }
+
+        }
+
+        private void TriggerAction(string action)
+        {
+            if(action == "") { return; }
+
+            foreach(DialogueTrigger trigger in currentConversant.GetComponents<DialogueTrigger>())
+            {
+                trigger.Trigger(action);
+            }
+
+        }
+
+        /// <summary>
+        /// Used when the player quits out of a dialogue.  Will run in the middle of or at the end of a dialogue.
+        /// </summary>
         public void QuitDialogue()
         {
+            if (!HasNext())
+            {
+                currentConversant.SetNextDialogue();
+            }
+
             currentDialogue = null;
+            TriggerExtiAction();
             currentNode = null;
             isChoosing = false;
-            GetComponent<PlayerController>().PlayerInputs().Enable();
+            currentConversant.TalkAnimation(false);
             playerAnimator.SetBool("IsTalking", false);
-
+            currentConversant = null;
             onConversationUpdated();
+            GetComponent<PlayerController>().PlayerInputs().Enable();
+        }
 
+        /// <summary>
+        /// Will only be called at the end of a dialogue.  If the AI's dialogue os a one-time dialogue,
+        /// the AI will change it's target dialogue.
+        /// </summary>
+        public void FinishedCurrentDialogue()
+        {
+            currentConversant.SetNextDialogue();
+            QuitDialogue();
         }
     }
 }

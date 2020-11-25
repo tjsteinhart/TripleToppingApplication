@@ -8,55 +8,38 @@ namespace Dialogue
     public class AIConversant : MonoBehaviour
     {
         [SerializeField] List<Dialogue> aiDialogues;
+        [SerializeField] int aiDialogueIndex = 0;
         [SerializeField] Animator animator;
 
         PlayerConversant playerConversant;
+        Dialogue currentDialogue;
+
+        public Dialogue GetCurrentDialogue() => currentDialogue;
 
         private void Awake()
         {
             playerConversant = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerConversant>();
             animator = GetComponent<Animator>();
+            currentDialogue = new Dialogue();
         }
 
-        public void StartDialogue()
+        private void Start()
         {
-            playerConversant.StartDialogue(ChooseDialogue());
+            currentDialogue = aiDialogues[aiDialogueIndex];
         }
 
-        private void OnEnable()
+        public void SetNextDialogue()
         {
-            playerConversant.onConversationUpdated += TalkAnimation;
-
-        }
-
-        private void OnDisable()
-        {
-            playerConversant.onConversationUpdated -= TalkAnimation;
-        }
-
-
-        private Dialogue ChooseDialogue()
-        {
-            Dialogue chosenDialogue = new Dialogue();
-            chosenDialogue = aiDialogues[0];
-
-            if (aiDialogues[0].IsOneTimeDialogue())
+            if (currentDialogue.IsOneTimeDialogue())
             {
-                aiDialogues.Remove(aiDialogues[0]);
+                aiDialogueIndex += 1;
+                currentDialogue = aiDialogues[aiDialogueIndex];
             }
-            return chosenDialogue;
         }
 
-        private void TalkAnimation()
+        public void TalkAnimation(bool isTalking)
         {
-            if (playerConversant.HasNext() && !playerConversant.IsChoosing())
-            {
-                animator.SetBool("NPCTalking", true);
-            }
-            else
-            {
-                animator.SetBool("NPCTalking", false);
-            }
+            animator.SetBool("NPCTalking", isTalking);
         }
     }
 
