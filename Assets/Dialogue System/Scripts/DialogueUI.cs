@@ -16,7 +16,7 @@ namespace DialogueUI
         [SerializeField] GameObject choiceButtonPrefab;
         [SerializeField] Button quitButton;
         [SerializeField] GameObject aiResponse;
-        [SerializeField] TextMeshProUGUI aiSpeakerName;
+        [SerializeField] TextMeshProUGUI speakerName;
 
         private void Awake()
         {
@@ -62,16 +62,16 @@ namespace DialogueUI
             }
             aiResponse.SetActive(!playerConversant.IsChoosing());
             choiceRoot.gameObject.SetActive(playerConversant.IsChoosing());
-            aiSpeakerName.text = playerConversant.GetAIConversantName();
             if (playerConversant.IsChoosing())
             {
+                speakerName.text = playerConversant.GetPlayerName();
                 BuildChoiceList();
             }
             else
             {
+                speakerName.text = playerConversant.GetAIConversantName();
                 aiText.text = playerConversant.GetText().ToString();
                 nextButton.gameObject.SetActive(playerConversant.HasNext());
-                Debug.Log("Test");
             }
         }
 

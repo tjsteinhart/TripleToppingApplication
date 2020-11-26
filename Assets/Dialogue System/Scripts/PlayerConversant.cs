@@ -8,6 +8,7 @@ namespace Dialogue
 {
     public class PlayerConversant : MonoBehaviour
     {
+        [SerializeField] string playerName;
         Dialogue currentDialogue;
         DialogueNode currentNode = null;
 
@@ -17,6 +18,8 @@ namespace Dialogue
         bool isChoosing = false;
 
         public event Action onConversationUpdated;
+
+        public string GetPlayerName() => playerName;
 
         private void Start()
         {

@@ -56,7 +56,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: 8e2f38da-37d7-46dd-a198-659cb4cc74e9
   m_EditorClassIdentifier: 
-  text: Right!  I also worked with Unity's URP and 2D lighting system.
+  text: Yep!  I also worked with Unity's new 2D lighting system.
   childrenIDs: []
   nodeRect:
     serializedVersion: 2

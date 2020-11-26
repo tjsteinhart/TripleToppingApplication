@@ -116,8 +116,8 @@ MonoBehaviour:
   - 40425931-a6d5-4994-b3ee-20facd69ef11
   nodeRect:
     serializedVersion: 2
-    x: 864
-    y: 223
+    x: 865
+    y: 222
     width: 200
     height: 100
   isPlayerSpeaking: 1
@@ -135,7 +135,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: 0c6d3464-b1f0-4ca9-b9bc-f96e5b923eca
   m_EditorClassIdentifier: 
-  text: This dialogue system using nodes and the Unity Editor is nice.
+  text: I also built out a dialogue system using nodes that can be changed in the
+    Unity Editor.
   childrenIDs:
   - 06a3a0ca-13f7-4acf-9aca-6c7adda08424
   nodeRect:
@@ -183,7 +184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: 1be4968d-b9b9-4606-96e7-b7901431e3c0
   m_EditorClassIdentifier: 
-  text: I'm using Unity's new Input System to control movement!
+  text: And I'm using Unity's new Input System to control the player!
   childrenIDs:
   - 06a3a0ca-13f7-4acf-9aca-6c7adda08424
   nodeRect:
