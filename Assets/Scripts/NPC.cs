@@ -13,12 +13,6 @@ public class NPC : MonoBehaviour, Interactable
         UnHighlightInteractable();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void HighlightInteractable()
     {
         highlightMaterial.SetInt(materialBool, 1);
@@ -27,11 +21,6 @@ public class NPC : MonoBehaviour, Interactable
 
     public void UnHighlightInteractable()
     {
-        highlightMaterial.SetInt("Boolean_1B41AF11", 0);
-    }
-
-    public void PlayerInteraction()
-    {
-        
+        highlightMaterial.SetInt(materialBool, 0);
     }
 }

@@ -2,26 +2,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PhaseManager : MonoBehaviour
+public class PhaseManager : Singleton<PhaseManager>
 {
     public enum StatePhase
     {
-        First,
-        Second
+        Day1 = 0,
+        Night1 = 1,
+        Day2 = 2
     }
 
     private StatePhase currentState;
     public StatePhase GetCurrentState() => currentState;
+    public int GetCurrentStateInt() => (int)currentState;
 
-    public delegate void PhaseAction(StatePhase phase);
+    public delegate void PhaseAction(int phase);
     public static event PhaseAction onPhaseChanged;
 
-    public void ChangeActionState(StatePhase state)
+    private void Start()
     {
-        currentState = state;
+        currentState = StatePhase.Day1;
+    }
+
+    public void ChangeActionState(int state)
+    {
+        currentState = (StatePhase)state;
         if (onPhaseChanged != null)
         {
             onPhaseChanged.Invoke(state);
         }
     }
+
 }

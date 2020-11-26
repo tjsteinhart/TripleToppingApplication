@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-4695796012187929370
+--- !u!114 &-6191573353469355119
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10,17 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
-  m_Name: 9d8bd895-d48f-4a24-8cbc-10881d58d0a8
+  m_Name: f99582d0-b6c9-4360-814d-27de5c7447ee
   m_EditorClassIdentifier: 
-  text: And I'm using the new Unity Input System to control movement and interaction.
-  childrenIDs: []
+  text: I noticed!  You added in a state machine to keep track of day and night cycles,
+    right?
+  childrenIDs:
+  - 8e2f38da-37d7-46dd-a198-659cb4cc74e9
   nodeRect:
     serializedVersion: 2
-    x: 305
-    y: 329
+    x: 523
+    y: 75
     width: 200
     height: 100
-  isPlayerSpeaking: 1
+  isPlayerSpeaking: 0
+  onEnterAction: 
+  onExitAction: 
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31,16 +35,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ce6daf250d5a084fa3abbb567959faf, type: 3}
-  m_Name: Farmer_First_Again
+  m_Name: Farmer_Night1
   m_EditorClassIdentifier: 
   nodes:
-  - {fileID: 838301176832109329}
-  - {fileID: 43612384080440404}
-  - {fileID: 2126008141955375540}
-  - {fileID: -4695796012187929370}
+  - {fileID: 1155282236646143539}
+  - {fileID: 4176039577630001328}
+  - {fileID: -6191573353469355119}
+  - {fileID: 733055416409914962}
   newNodeOffset: {x: 250, y: 0}
   isOneTimeDialogue: 0
---- !u!114 &43612384080440404
+--- !u!114 &733055416409914962
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -50,18 +54,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
-  m_Name: dc3058c7-41da-406f-b19a-c9ab039314e6
+  m_Name: 8e2f38da-37d7-46dd-a198-659cb4cc74e9
   m_EditorClassIdentifier: 
-  text: Sure, there's a dialogue system that uses the Unity Editor.
+  text: Right!  I also worked with Unity's URP and 2D lighting system.
   childrenIDs: []
   nodeRect:
     serializedVersion: 2
-    x: 315
-    y: 32
+    x: 773
+    y: 75
     width: 200
     height: 100
   isPlayerSpeaking: 1
---- !u!114 &838301176832109329
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1155282236646143539
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -71,21 +77,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
-  m_Name: 39b57515-43eb-488d-a865-63dbf229a336
+  m_Name: b782a812-664a-43bf-b913-0ff57facd9be
   m_EditorClassIdentifier: 
-  text: Hey, I forgot what you added to this demo.  Could you remind me?
+  text: Good evening!  I see you've got a handy lantern.
   childrenIDs:
-  - dc3058c7-41da-406f-b19a-c9ab039314e6
-  - fc2c3031-7e06-4b62-b7d1-c44fe25ba7ed
-  - 9d8bd895-d48f-4a24-8cbc-10881d58d0a8
+  - d31cf75d-785b-46cb-94bc-e01bfccaadfc
   nodeRect:
     serializedVersion: 2
-    x: 28
-    y: 65
+    x: 23
+    y: 75
     width: 200
     height: 100
   isPlayerSpeaking: 0
---- !u!114 &2126008141955375540
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4176039577630001328
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -95,14 +101,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
-  m_Name: fc2c3031-7e06-4b62-b7d1-c44fe25ba7ed
+  m_Name: d31cf75d-785b-46cb-94bc-e01bfccaadfc
   m_EditorClassIdentifier: 
-  text: There's also a shader that highlights interactable NPCs when I get close.
-  childrenIDs: []
+  text: Oh yeah!  I've added in a couple other features.
+  childrenIDs:
+  - f99582d0-b6c9-4360-814d-27de5c7447ee
   nodeRect:
     serializedVersion: 2
-    x: 316
-    y: 183
+    x: 273
+    y: 75
     width: 200
     height: 100
   isPlayerSpeaking: 1
+  onEnterAction: 
+  onExitAction: 

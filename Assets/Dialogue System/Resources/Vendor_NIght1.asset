@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6156543723253506063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: 724ce621-708d-42ca-922a-35fc2b459e7a
+  m_EditorClassIdentifier: 
+  text: I sure can, for the purpose of this demo of course!
+  childrenIDs:
+  - af4675ec-2e48-4dca-bd65-02276c8b247e
+  - 0d6a1979-23e1-425c-a371-2f4f0f41c226
+  nodeRect:
+    serializedVersion: 2
+    x: 503
+    y: 171
+    width: 200
+    height: 100
+  isPlayerSpeaking: 0
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4285393510226038458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: af4675ec-2e48-4dca-bd65-02276c8b247e
+  m_EditorClassIdentifier: 
+  text: Not right now.
+  childrenIDs: []
+  nodeRect:
+    serializedVersion: 2
+    x: 752
+    y: 219
+    width: 200
+    height: 100
+  isPlayerSpeaking: 1
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce6daf250d5a084fa3abbb567959faf, type: 3}
+  m_Name: Vendor_NIght1
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 2344535351994361101}
+  - {fileID: 612498479760532533}
+  - {fileID: -6156543723253506063}
+  - {fileID: -4285393510226038458}
+  - {fileID: 2516749330060025537}
+  newNodeOffset: {x: 250, y: 0}
+  isOneTimeDialogue: 0
+--- !u!114 &612498479760532533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: bbcad07b-825e-41f4-9629-1c02bcc3c281
+  m_EditorClassIdentifier: 
+  text: You can change night into day??
+  childrenIDs:
+  - 724ce621-708d-42ca-922a-35fc2b459e7a
+  nodeRect:
+    serializedVersion: 2
+    x: 253
+    y: 171
+    width: 200
+    height: 100
+  isPlayerSpeaking: 1
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2344535351994361101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: 0aa10d56-b7b3-4651-9905-aba7b258875d
+  m_EditorClassIdentifier: 
+  text: Good thing you got that lantern! Let me know if you want it to be daylight
+    again.
+  childrenIDs:
+  - bbcad07b-825e-41f4-9629-1c02bcc3c281
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 171
+    width: 200
+    height: 100
+  isPlayerSpeaking: 0
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2516749330060025537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
+  m_Name: 0d6a1979-23e1-425c-a371-2f4f0f41c226
+  m_EditorClassIdentifier: 
+  text: Let's do it!
+  childrenIDs: []
+  nodeRect:
+    serializedVersion: 2
+    x: 752
+    y: 103
+    width: 200
+    height: 100
+  isPlayerSpeaking: 1
+  onEnterAction: 
+  onExitAction: Day2

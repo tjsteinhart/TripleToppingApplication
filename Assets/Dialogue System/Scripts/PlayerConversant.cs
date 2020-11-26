@@ -157,6 +157,7 @@ namespace Dialogue
             currentNode = null;
             isChoosing = false;
             currentConversant.TalkAnimation(false);
+            currentConversant.HighlightInteractable();
             playerAnimator.SetBool("IsTalking", false);
             currentConversant = null;
             onConversationUpdated();

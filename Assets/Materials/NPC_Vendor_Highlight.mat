@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Highlight_Vendor
-  m_Shader: {fileID: -6465566751694194690, guid: a103647da26bbc64daa5dd1e7275aef8, type: 3}
+  m_Name: NPC_Vendor_Highlight
+  m_Shader: {fileID: -6465566751694194690, guid: 0515ab78bd912914da2291aad6f287d5, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -25,7 +25,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_1B41AF11: 0
+    - Boolean_93DDF7EB: 0
     - Vector1_A23FD544: 0.0025
+    - Vector1_E4473496: 0.005
     m_Colors:
     - Color_222B9A37: {r: 0.07843137, g: 1, b: 0.56784487, a: 1}
+    - Color_D72C60D1: {r: 0.003782494, g: 0.8018868, b: 0.03821057, a: 1}
   m_BuildTextureStacks: []

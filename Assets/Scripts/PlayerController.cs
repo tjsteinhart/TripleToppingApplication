@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine.InputSystem;
 using System;
 using Dialogue;
+using UnityEngine.Experimental.Rendering.Universal;
 
 public class PlayerController : MonoBehaviour
 {
@@ -18,6 +19,12 @@ public class PlayerController : MonoBehaviour
     GameObject interactable = null;
     PlayerConversant playerConversant = null;
 
+    [SerializeField] Light2D fieldOfView;
+    [SerializeField] float dayTime = 20f;
+    [SerializeField] float nightTime = 7f;
+    [SerializeField] float lightChangeDuration = 2f;
+
+
     public Player_Inputs PlayerInputs() => playerInputControls;
 
     private void Awake()
@@ -29,6 +36,7 @@ public class PlayerController : MonoBehaviour
 
     private void OnEnable()
     {
+        PhaseManager.onPhaseChanged += LightChanger;
         playerInputControls.Enable();
 
         playerInputControls.Player.Move.performed += PlayerMove;
@@ -37,6 +45,7 @@ public class PlayerController : MonoBehaviour
 
     private void OnDisable()
     {
+        PhaseManager.onPhaseChanged -= LightChanger;
         playerInputControls.Disable();    
     }
 
@@ -56,6 +65,7 @@ public class PlayerController : MonoBehaviour
                 {
                     var aiConversant = interactable.GetComponent<AIConversant>();
                     playerConversant.StartDialogue(aiConversant, aiConversant.GetCurrentDialogue());
+                    aiConversant.UnHighlightInteractable();
                     return;
                 }
             }
@@ -121,4 +131,30 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Used to adjust the 2D light focused on the player
+    /// </summary>
+    public void LightChanger(int phase)
+    {
+        if(phase % 2 == 0)
+        {
+            StartCoroutine(ChangeOuterRadius(nightTime, dayTime, lightChangeDuration));
+        }
+        else
+        {
+            StartCoroutine(ChangeOuterRadius(dayTime, nightTime, lightChangeDuration));
+        }
+    }
+
+    public IEnumerator ChangeOuterRadius(float v_start, float v_end, float duration)
+    {
+        float elapsed = 0.0f;
+        while (elapsed < duration)
+        {
+            fieldOfView.pointLightOuterRadius = Mathf.Lerp(v_start, v_end, elapsed / duration);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+        fieldOfView.pointLightOuterRadius = v_end;
+    }
 }

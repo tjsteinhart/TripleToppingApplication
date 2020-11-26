@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: NPC_Farmer Highlight
-  m_Shader: {fileID: -6465566751694194690, guid: f0fc709400164ae4dafe9e570555e466, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: e88d49e3b21dba2459e44534d2c43dde, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -20,13 +20,20 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: a6f323be3262f3f43a291f14834e0a06, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_FCC4B03B_Out_0:
+        m_Texture: {fileID: 2800000, guid: a6f323be3262f3f43a291f14834e0a06, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Boolean_1B41AF11: 1
+    - Boolean_1B41AF11: 0
     - Boolean_7D79312B: 0
+    - Boolean_93DDF7EB: 1
     - Vector1_A23FD544: 0.0015
+    - Vector1_E4473496: 0.002
     m_Colors:
     - Color_222B9A37: {r: 0.07843137, g: 1, b: 0.56784487, a: 1}
+    - Color_D72C60D1: {r: 0.003782494, g: 0.8018868, b: 0.03821057, a: 1}
   m_BuildTextureStacks: []

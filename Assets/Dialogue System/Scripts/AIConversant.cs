@@ -5,16 +5,22 @@ using Dialogue;
 
 namespace Dialogue
 {
-    public class AIConversant : MonoBehaviour
+    public class AIConversant : MonoBehaviour, Interactable
     {
-        [SerializeField] List<Dialogue> aiDialogues;
+        [SerializeField] List<AIDialogue> aiDialogues;
         [SerializeField] int aiDialogueIndex = 0;
         [SerializeField] Animator animator;
 
         PlayerConversant playerConversant;
+
+        AIDialogue currentChoices;
         Dialogue currentDialogue;
 
         public Dialogue GetCurrentDialogue() => currentDialogue;
+
+        [SerializeField] Material highlightMaterial;
+        [SerializeField] string materialBool;
+
 
         private void Awake()
         {
@@ -23,9 +29,33 @@ namespace Dialogue
             currentDialogue = new Dialogue();
         }
 
+        private void OnEnable()
+        {
+            PhaseManager.onPhaseChanged += SelectNewDialogues;
+        }
+
+        private void OnDisable()
+        {
+            PhaseManager.onPhaseChanged -= SelectNewDialogues;
+        }
+
         private void Start()
         {
-            currentDialogue = aiDialogues[aiDialogueIndex];
+            SelectNewDialogues(PhaseManager.Instance.GetCurrentStateInt());
+            UnHighlightInteractable();
+        }
+
+        private void SelectNewDialogues(int phase)
+        {
+            aiDialogueIndex = 0;
+            foreach (AIDialogue choice in aiDialogues)
+            {
+                if (choice.time == (PhaseManager.StatePhase)phase)
+                {
+                    currentChoices = choice;
+                    currentDialogue = choice.aiDialogues[aiDialogueIndex];
+                }
+            }
         }
 
         public void SetNextDialogue()
@@ -33,7 +63,7 @@ namespace Dialogue
             if (currentDialogue.IsOneTimeDialogue())
             {
                 aiDialogueIndex += 1;
-                currentDialogue = aiDialogues[aiDialogueIndex];
+                currentDialogue = currentChoices.aiDialogues[aiDialogueIndex];
             }
         }
 
@@ -41,6 +71,24 @@ namespace Dialogue
         {
             animator.SetBool("NPCTalking", isTalking);
         }
+
+        public void HighlightInteractable()
+        {
+            highlightMaterial.SetInt(materialBool, 1);
+        }
+
+        public void UnHighlightInteractable()
+        {
+            highlightMaterial.SetInt(materialBool, 0);
+        }
+
+    }
+
+    [System.Serializable]
+    public class AIDialogue
+    {
+        [SerializeField] public PhaseManager.StatePhase time;
+        [SerializeField] public List<Dialogue> aiDialogues;
     }
 
 }
