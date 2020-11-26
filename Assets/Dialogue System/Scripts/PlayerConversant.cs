@@ -54,6 +54,11 @@ namespace Dialogue
             return isChoosing;
         }
 
+        public string GetAIConversantName()
+        {
+            return currentConversant.GetSpeakerName();
+        }
+
         /// <summary>
         /// Displays the first line of text, routinely called by NPC interacted on by the player
         /// </summary>

@@ -10,12 +10,13 @@ namespace DialogueUI
     public class DialogueUI : MonoBehaviour
     {
         PlayerConversant playerConversant;
-        [SerializeField] TextMeshProUGUI AIText;
+        [SerializeField] TextMeshProUGUI aiText;
         [SerializeField] Button nextButton;
         [SerializeField] Transform choiceRoot;
         [SerializeField] GameObject choiceButtonPrefab;
         [SerializeField] Button quitButton;
         [SerializeField] GameObject aiResponse;
+        [SerializeField] TextMeshProUGUI aiSpeakerName;
 
         private void Awake()
         {
@@ -61,14 +62,16 @@ namespace DialogueUI
             }
             aiResponse.SetActive(!playerConversant.IsChoosing());
             choiceRoot.gameObject.SetActive(playerConversant.IsChoosing());
+            aiSpeakerName.text = playerConversant.GetAIConversantName();
             if (playerConversant.IsChoosing())
             {
                 BuildChoiceList();
             }
             else
             {
-                AIText.text = playerConversant.GetText().ToString();
+                aiText.text = playerConversant.GetText().ToString();
                 nextButton.gameObject.SetActive(playerConversant.HasNext());
+                Debug.Log("Test");
             }
         }
 

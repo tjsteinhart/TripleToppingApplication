@@ -10,13 +10,13 @@ namespace Dialogue
         [SerializeField] List<AIDialogue> aiDialogues;
         [SerializeField] int aiDialogueIndex = 0;
         [SerializeField] Animator animator;
-
-        PlayerConversant playerConversant;
+        [SerializeField] string speakerName;
 
         AIDialogue currentChoices;
         Dialogue currentDialogue;
 
         public Dialogue GetCurrentDialogue() => currentDialogue;
+        public string GetSpeakerName() => speakerName;
 
         [SerializeField] Material highlightMaterial;
         [SerializeField] string materialBool;
@@ -24,7 +24,6 @@ namespace Dialogue
 
         private void Awake()
         {
-            playerConversant = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerConversant>();
             animator = GetComponent<Animator>();
             currentDialogue = new Dialogue();
         }

@@ -14,7 +14,6 @@ public class PlayerController : MonoBehaviour
 
     private Player_Inputs playerInputControls;
     private Vector2 moveAxis;
-    private bool isMoving = false;
     private bool interactWithOthers = false;
     GameObject interactable = null;
     PlayerConversant playerConversant = null;

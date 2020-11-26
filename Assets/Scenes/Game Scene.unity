@@ -832,6 +832,7 @@ MonoBehaviour:
     - {fileID: 11400000, guid: d936972ab1b1d2b45aa40ad3b8bc0076, type: 2}
   aiDialogueIndex: 0
   animator: {fileID: 215967579}
+  speakerName: Lantern Seller
   highlightMaterial: {fileID: 2100000, guid: e02fd52810cfd31498b4e1a714df7511, type: 2}
   materialBool: Boolean_93DDF7EB
 --- !u!114 &215967583
@@ -2842,18 +2843,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 50
-    m_Right: 50
+    m_Left: 0
+    m_Right: 0
     m_Top: 0
     m_Bottom: 0
   m_ChildAlignment: 8
-  m_Spacing: 0
+  m_Spacing: 10
   m_ChildForceExpandWidth: 0
   m_ChildForceExpandHeight: 0
   m_ChildControlWidth: 1
   m_ChildControlHeight: 1
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
+  m_ChildScaleWidth: 1
+  m_ChildScaleHeight: 1
   m_ReverseArrangement: 0
 --- !u!1001 &1420384963
 PrefabInstance:
@@ -3013,10 +3014,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44
-  m_fontSizeBase: 44
+  m_fontSize: 45.65
+  m_fontSizeBase: 36
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -3028,7 +3029,7 @@ MonoBehaviour:
   m_lineSpacing: 0
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
+  m_charWidthMaxAdj: 50
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
@@ -3361,12 +3362,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4db405b822c9eb741865cf47ea7a539f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AIText: {fileID: 605126023}
+  aiText: {fileID: 605126023}
   nextButton: {fileID: 660353254}
   choiceRoot: {fileID: 1855970461}
   choiceButtonPrefab: {fileID: 795201564852996364, guid: 3c89e6fe19f84c346b64ead040b1bd2a, type: 3}
   quitButton: {fileID: 1931204582}
   aiResponse: {fileID: 1221573807}
+  aiSpeakerName: {fileID: 1540422601}
 --- !u!1001 &1502544123
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5251,6 +5253,7 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 095d21630c2e7b24f8ca267379675638, type: 2}
   aiDialogueIndex: 0
   animator: {fileID: 0}
+  speakerName: Farmer Greg
   highlightMaterial: {fileID: 2100000, guid: 3a1071fe1e0020e4699b503992e9e8bc, type: 2}
   materialBool: Boolean_93DDF7EB
 --- !u!1001 &795201564798504708
