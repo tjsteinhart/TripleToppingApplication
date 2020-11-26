@@ -41,6 +41,12 @@ public class PlayerController : MonoBehaviour
 
         playerInputControls.Player.Move.performed += PlayerMove;
         playerInputControls.Player.Interact.started += PlayerInteract;
+        playerInputControls.Player.Quit.started += QuitGame;
+    }
+
+    private void QuitGame(InputAction.CallbackContext obj)
+    {
+        Application.Quit();
     }
 
     private void OnDisable()
