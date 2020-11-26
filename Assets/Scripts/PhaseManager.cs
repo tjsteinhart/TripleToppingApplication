@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// State machine to control the day/night cycle within the game
+/// </summary>
 public class PhaseManager : Singleton<PhaseManager>
 {
+    //Upcasted to allow Unity Events from the Inspector to call the ChangeActionState function
     public enum StatePhase
     {
         Day1 = 0,

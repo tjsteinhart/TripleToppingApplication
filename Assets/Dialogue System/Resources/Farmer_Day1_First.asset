@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2e2149798391744b5e4662a1097198, type: 3}
   m_Name: fecc4f1d-ad73-448a-9e3f-0a4691c1de2c
   m_EditorClassIdentifier: 
-  text: Anyway, I'm here to showcase a Unity demo for Triple Topping.
+  text: Anyway, I'm here to showcase a Unity demo.
   childrenIDs:
   - 40425931-a6d5-4994-b3ee-20facd69ef11
   nodeRect:

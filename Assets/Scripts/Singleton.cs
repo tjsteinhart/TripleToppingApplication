@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Singleton script that can be applied to any other Monobehaviour class.
+/// </summary>
+/// <typeparam name="T"></typeparam>
+
 public class Singleton<T> : MonoBehaviour where T : Singleton<T>
 {
     public bool isPersistent = true;

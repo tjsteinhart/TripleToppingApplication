@@ -83,6 +83,9 @@ namespace Dialogue
 
     }
 
+    /// <summary>
+    /// Allows for characters to store multiple dialogues dependent on the PhaseManager state 
+    /// </summary>
     [System.Serializable]
     public class AIDialogue
     {

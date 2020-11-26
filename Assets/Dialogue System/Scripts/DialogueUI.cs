@@ -23,19 +23,16 @@ namespace DialogueUI
             playerConversant = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerConversant>();
         }
 
-        // Start is called before the first frame update
         void Start()
         {
             nextButton.onClick.AddListener(Next);
             quitButton.onClick.AddListener(Quit);
-            
         }
 
         private void OnEnable()
         {
             UpdateUI();
             playerConversant.onConversationUpdated += UpdateUI;
-            
         }
 
         private void OnDisable()
@@ -60,8 +57,10 @@ namespace DialogueUI
             {
                 return;
             }
+
             aiResponse.SetActive(!playerConversant.IsChoosing());
             choiceRoot.gameObject.SetActive(playerConversant.IsChoosing());
+
             if (playerConversant.IsChoosing())
             {
                 speakerName.text = playerConversant.GetPlayerName();

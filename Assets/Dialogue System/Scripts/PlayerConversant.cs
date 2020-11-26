@@ -88,6 +88,9 @@ namespace Dialogue
             Next();
         }
 
+        /// <summary>
+        /// Continues the dialogue and chooses the next node.  If no next node is found, the Dialogue closes and a new one is chosen if applicable.
+        /// </summary>
         public void Next()
         {
             int numPlayerResponses = currentDialogue.GetPlayerChildren(currentNode).Count();

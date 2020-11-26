@@ -59,6 +59,13 @@ public class PlayerController : MonoBehaviour
         MovePlayer();
     }
 
+    /// <summary>
+    /// Input System interact method. Disables the playerInput controls due to the interact button calling this function 
+    /// multiple times in a single press. Currently starts conversations with NPCs.  
+    /// 
+    /// Can add functionality to interact with other objects separately.
+    /// </summary>
+    /// <param name="context"></param>
     public void PlayerInteract(InputAction.CallbackContext context)
     {
         if (context.started)
@@ -107,7 +114,7 @@ public class PlayerController : MonoBehaviour
     }
 
     /// <summary>
-    /// Input System Move
+    /// Input System Move, records the move values to be used in MovePlayer()
     /// </summary>
     /// <param name="context"></param>
     public void PlayerMove(InputAction.CallbackContext context)
@@ -137,10 +144,11 @@ public class PlayerController : MonoBehaviour
     }
 
     /// <summary>
-    /// Used to adjust the 2D light focused on the player
+    /// Used to adjust the 2D light focused on the player. 
     /// </summary>
     public void LightChanger(int phase)
     {
+        //Quick and Dirty way to check if the Phasemanager is on a day or night cycle
         if(phase % 2 == 0)
         {
             StartCoroutine(ChangeOuterRadius(nightTime, dayTime, lightChangeDuration));
@@ -151,15 +159,16 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    public IEnumerator ChangeOuterRadius(float v_start, float v_end, float duration)
+    //Lerp function to smoothly change day/night lighting on the player
+    public IEnumerator ChangeOuterRadius(float startPoint, float endPoint, float duration)
     {
         float elapsed = 0.0f;
         while (elapsed < duration)
         {
-            fieldOfView.pointLightOuterRadius = Mathf.Lerp(v_start, v_end, elapsed / duration);
+            fieldOfView.pointLightOuterRadius = Mathf.Lerp(startPoint, endPoint, elapsed / duration);
             elapsed += Time.deltaTime;
             yield return null;
         }
-        fieldOfView.pointLightOuterRadius = v_end;
+        fieldOfView.pointLightOuterRadius = endPoint;
     }
 }

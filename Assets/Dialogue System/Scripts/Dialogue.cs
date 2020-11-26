@@ -15,6 +15,7 @@ namespace Dialogue
 
         public bool IsOneTimeDialogue() => isOneTimeDialogue;
 
+        //Builds a dictionary of all Nodes that are children of this Dialogue ScriptableObject
         Dictionary<string, DialogueNode> nodeLookup = new Dictionary<string, DialogueNode>();
 
         private void Awake()
@@ -52,7 +53,8 @@ namespace Dialogue
                 }
             }
         }
-
+        
+        //Gets the player speaker nodes
         public IEnumerable<DialogueNode> GetPlayerChildren(DialogueNode parentNode)
         {
             foreach(DialogueNode node in GetAllChildren(parentNode))
@@ -64,6 +66,7 @@ namespace Dialogue
             }
         }
 
+        //Gets AI speaker nodes
         public IEnumerable<DialogueNode> GetAIChildren(DialogueNode parentNode)
         {
             foreach (DialogueNode node in GetAllChildren(parentNode))
@@ -100,8 +103,6 @@ namespace Dialogue
             return newNode;
         }
 
-        
-
         private void AddNode(DialogueNode newNode)
         {
             nodes.Add(newNode);
@@ -117,6 +118,7 @@ namespace Dialogue
             Undo.DestroyObjectImmediate(nodeToDelete);
         }
 
+        //Fix for Unity bug
         private void CleanDanglingChildren(DialogueNode nodeToDelete)
         {
             foreach (DialogueNode node in GetAllNodes())
